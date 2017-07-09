@@ -54,10 +54,10 @@
                         <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#services">Hobbies</a>
+                        <a class="nav-link" href="#gallery">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#portfolio">Gallery</a>
+                    	   <a class="nav-link" href="later">Blog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
@@ -75,33 +75,18 @@
                 <h1 id="homeHeading">Software Developer</h1>
                 <hr>
                 <p>
-                I built this website using Bootstrap and some magic from the Java Technology Stack.
-                <br/>In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                I built this simple website using Bootstrap, Spring MVC and others from the same Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
                 </p>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
         </div>
     </header>
-	<!--
-    <section class="bg-primary" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 text-center">
-                    <h2 class="section-heading text-white">We've got what you need!</h2>
-                    <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a class="btn btn-default btn-xl sr-button" href="#services">Get Started!</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    -->
 
-    <section id="services">
+    <section id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
+                    <h2 class="section-heading">What I Do</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -140,7 +125,7 @@
         </div>
     </section>
 
-    <section class="no-padding" id="portfolio">
+    <section class="no-padding" id="gallery">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
@@ -236,14 +221,7 @@
             </div>
         </div>
     </section>
-	<!--
-    <div class="call-to-action bg-dark">
-        <div class="container text-center">
-            <h2>Free Download at Start Bootstrap!</h2>
-            <a class="btn btn-default btn-xl sr-button" href="http://startbootstrap.com/template-overviews/creative/">Download Now!</a>
-        </div>
-    </div>
-	-->
+    
     <section id="contact">
         <div class="container">
             <div class="row">
