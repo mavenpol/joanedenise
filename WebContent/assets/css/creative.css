@@ -236,8 +236,8 @@ header.masthead {
         font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
         font-size: 14px;
-        font-weight: 600;
-        text-transform: uppercase; }
+        font-weight: 600;}
+        /*text-transform: uppercase;} */
       .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 18px; }
   .portfolio-box:hover .portfolio-box-caption {

@@ -86,39 +86,36 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">What I Do</h2>
+                    <h2 class="section-heading">What I do, Who I am</h2>
                     <hr class="primary">
                 </div>
             </div>
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
+            		<!-- Other Icons:
                         <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>                     
+                -->
+                <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <h3>SDLC Queen</h3>
+                        <p class="text-muted">I can build the Software Requirements, Architect the Solution, Write the Code and Manage the Project altogether.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <h3>Makeup Junkie</h3>
+                        <p class="text-muted">I study Makeup Artistry and offer Makeup Services as well, whenever I'm resting from the Computer Screen.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
+                        <h3>Travel, Write</h3>
+                        <p class="text-muted">I travel when the opportunity is there. And I like to write about a lot of things.</p>
                     </div>
                 </div>
             </div>
@@ -129,90 +126,80 @@
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/1.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/1.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/airbrush.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Airbrush Makeup Training
+                                </div>
+                                <div class="project-category text-faded">
+                                    Makeup Forever Academy<br/>
+                                	   New York
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/2.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/2.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/pure-glam.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Intensive Makeup Artistry Training
+                                </div>
+                                <div class="project-category text-faded">
+                                    Pure Glam Makeup Academy<br/>
+                                	   San Antonio, Texas
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/3.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/3.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/gigs.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Makeup Gigs and Fashion Shows
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/4.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/it-profile.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    IT Profile
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/5.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/tech-blog.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    My Technical Blog
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/6.jpg" alt="">
+                    <a class="portfolio-box" href="#">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/travels.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Lifestyle and Travels
                                 </div>
                             </div>
                         </div>
