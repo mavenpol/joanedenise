@@ -57,11 +57,30 @@
                         <a class="nav-link" href="#gallery">Gallery</a>
                     </li>
                     <li class="nav-item">
-                    	   <a class="nav-link" href="later">Blog</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a class="dropdown-menu-item" href="portfolio-1-col.html">Tech</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-menu-item" href="portfolio-2-col.html">Lifestyle</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    
+                    <!-- <li class="nav-item">
+                    	    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Blog2 <b class="caret"></b></a>
+                    	    <ul class="dropdown-menu multi-level">
+	                        <li class="nav-item"><a href="#">Technical</a></li>
+	                        <li class="nav-item"><a href="#">Lifestyle</a></li>
+	               		</ul>
+                    </li>-->
+                    
                 </ul>
             </div>
         </div>
@@ -75,7 +94,7 @@
                 <h1 id="homeHeading">Software Developer</h1>
                 <hr>
                 <p>
-                I built this simple website using Bootstrap, Spring MVC and others from the same Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                I built this simple website using Bootstrap, Spring MVC and others from the related Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
                 </p>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
@@ -243,7 +262,15 @@
     <!-- Custom scripts for this template -->
     <script src="${pageContext.request.contextPath}/assets/js/creative.js"></script>
     
-    
+    <script>
+		$(document).ready(function(){
+	  	$('.dropdown-submenu a.test').on("click", function(e){
+	    $(this).next('ul').toggle();
+	    e.stopPropagation();
+	    e.preventDefault();
+	  	});
+		});
+	</script>
                     	 
     
 
