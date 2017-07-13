@@ -117,14 +117,15 @@ body {
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
         background-color: transparent; }
-  /* Start Mess up with CSS for my Multi-Menu Dropdown */
+  /* Start mess-up with CSS for my Multi-Menu Dropdown */
   #mainNav .navbar-nav > li.dropdown > a.dropdown-toggle {
     font-size: 13px;
     font-weight: 700;
     text-transform: uppercase; 
     color: rgba(255, 255, 255, 0.7);
     }
-  /* End Mess up with CSS for my Multi-Menu Dropdown */
+  
+  /* End mess-up with CSS for my Multi-Menu Dropdown */
   @media (min-width: 992px) {
     #mainNav {
       border-color: rgba(255, 255, 255, 0.3);

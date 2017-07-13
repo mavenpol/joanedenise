@@ -63,11 +63,11 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li>
-                                <a class="dropdown-menu-item" href="portfolio-1-col.html">Tech</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="portfolio-1-col.html">Tech</a>
                             </li>
-                            <li>
-                                <a class="dropdown-menu-item" href="portfolio-2-col.html">Lifestyle</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="portfolio-2-col.html">Lifestyle</a>
                             </li>
                         </ul>
                     </li>
