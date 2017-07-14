@@ -61,25 +61,16 @@
                     </li>
                     
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Blog <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="nav-item">
-                                <a class="nav-link" href="portfolio-1-col.html">Tech</a>
+                                <a class="nav-link" href="${pageContext.request.contextPath}/blog/blog-tech.jsp">Tech</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="portfolio-2-col.html">Lifestyle</a>
                             </li>
                         </ul>
                     </li>
-                    
-                    
-                    <!-- <li class="nav-item">
-                    	    <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Blog2 <b class="caret"></b></a>
-                    	    <ul class="dropdown-menu multi-level">
-	                        <li class="nav-item"><a href="#">Technical</a></li>
-	                        <li class="nav-item"><a href="#">Lifestyle</a></li>
-	               		</ul>
-                    </li>-->
                     
                 </ul>
             </div>
@@ -112,27 +103,24 @@
         </div>
         <div class="container">
             <div class="row">
-            		<!-- Other Icons:
-                        <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>                     
-                -->
+            		<!-- Other Icons: http://fontawesome.io/ -->
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
+                        <i class="fa fa-4x fa-desktop text-primary sr-icons"></i>
                         <h3>SDLC Queen</h3>
                         <p class="text-muted">I can build the Software Requirements, Architect the Solution, Write the Code and Manage the Project altogether.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
+                        <i class="fa fa-4x fa-paint-brush text-primary sr-icons"></i>
                         <h3>Makeup Junkie</h3>
                         <p class="text-muted">I study Makeup Artistry and offer Makeup Services as well, whenever I'm resting from the Computer Screen.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
+                        <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
                         <h3>Travel, Write</h3>
                         <p class="text-muted">I travel when the opportunity is there. And I like to write about a lot of things.</p>
                     </div>
@@ -143,9 +131,10 @@
 
     <section class="no-padding" id="gallery">
         <div class="container-fluid">
-            <div class="row no-gutter popup-gallery">
+        		<!-- JD: Add onClick to the div as hack to bootstrap popup-gallery -->
+            <div class="row no-gutter popup-gallery" onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp'">
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a href="#" target="_self" class="portfolio-box">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/airbrush.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -206,7 +195,7 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
-                                    My Technical Blog
+                                    Tech Blog
                                 </div>
                             </div>
                         </div>
@@ -233,21 +222,29 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 text-center">
                     <h2 class="section-heading">Connect with Me</h2>
-                    <hr class="primary">
+                    <hr class="primary"/>
                     <p>
-                    You can reach me via my Instagram (for now). 
-                    I have just started opening up to the world so bear with me a bit, my Social Media / PR Team (a.k.a. Me) is 
+                    You can reach me via my Instagram (for now). <i>Click here</i> <i class="fa fa-1x fa-long-arrow-right text-primary sr-icons"></i>  
+                    <a href="https://www.instagram.com/joanedenise">
+                			<i class="fa fa-2x fa-instagram text-primary sr-icons"></i>
+                		</a>.
+                    <br /> I have just started opening up to the world so bear with me a bit, my Social Media / PR Team (a.k.a. Me) is 
                     not as elegant and organized yet.
                     </p>
-                </div>
-                <div class="col-lg-8 offset-lg-2 text-center">
-                		<a href="https://www.instagram.com/joanedenise">
-                			<img src="${pageContext.request.contextPath}/assets/img/instagram-logo.jpg" alt="" class="img-thumbnail"/>
-                		</a>
                 </div>
             </div>
         </div>
     </section>
+    
+     <footer>
+        <div class="container">
+            <div class="row">
+            		<div class="col-lg-12 col-md-12 text-center">
+               		<p class="copyright text-muted">Copyright &copy; Joane Denise 2017</p>
+               	</div>
+            </div>
+        </div>
+    </footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="${pageContext.request.contextPath}/assets/vendor/jquery/jquery.min.js"></script>
@@ -262,18 +259,7 @@
     <!-- Custom scripts for this template -->
     <script src="${pageContext.request.contextPath}/assets/js/creative.js"></script>
     
-    <script>
-		$(document).ready(function(){
-	  	$('.dropdown-submenu a.test').on("click", function(e){
-	    $(this).next('ul').toggle();
-	    e.stopPropagation();
-	    e.preventDefault();
-	  	});
-		});
-	</script>
-                    	 
-    
-
+                    
 </body>
 
 </html>
