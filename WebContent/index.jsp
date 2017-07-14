@@ -22,7 +22,7 @@
     <link href="${pageContext.request.contextPath}/assets/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="${pageContext.request.contextPath}/assets/css/creative.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets/css/joanedenisev1.css" rel="stylesheet">
 
     <!-- Temporary navbar container fix -->
     <style>
@@ -60,9 +60,9 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Blog <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Blog <b class="caret"></b></a>
+                        <ul class="navbar-nav ml-auto dropdown-menu">
                             <li class="nav-item">
                                 <a class="nav-link" href="${pageContext.request.contextPath}/blog/blog-tech.jsp">Tech</a>
                             </li>
@@ -80,9 +80,9 @@
     <header class="masthead">
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Makeup Artist</h1>
-                and<br/>
                 <h1 id="homeHeading">Software Developer</h1>
+                and<br/>
+                <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
                 <p>
                 I built this simple website using Bootstrap, Spring MVC and others from the related Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
