@@ -123,9 +123,23 @@
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day1-demo.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>Every day is demo day. Here, he demo'ed the basics of airbrush. 
+                    It's my first time to see an actual air-brush.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    I was so curious how it would look like up-close. My main questions were - will it look cakey? Does it feel heavy? 
+                    Apparently it isn't.
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty-closeup.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>Something that blew my mind a bit is about "minimalism". You don't have to airbrush everything 
+                    because "that's just the way it should be". Make it as natural as possible by 
+                    going through the process of "Neutralize and Even out".</p>
+                    <p>Neutralization is very related to Color Theory. You have to target the spots first that 
+                    require color correction. The same concept that we use for the traditional makeup totally applies to 
+                    Airbrush as well. 
                     
-                    <p>Every day is demo day. The whole time Roque is demo-ing and instructing, I am not sure if I am 
-                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement.</p>
                     
                     <p>So here are what we talked about on our first day.</p>
                     <ul>
@@ -135,6 +149,9 @@
                     		<li>Cleaning</li>
                     		<li>Airbrushing the Face Chart</li>
                     </ul>
+                    
+                    The whole time Roque is demo-ing and instructing, I am not sure if I am 
+                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement.
                     <p>There are very good learning materials that came in with the Workshop. I'm sure it's all on
                     the internet. However, hearing it from the master and seeing him in action really makes a 
                     lot of difference in the learning process.</p>
