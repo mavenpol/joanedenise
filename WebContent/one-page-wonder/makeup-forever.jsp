@@ -48,7 +48,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" 
-    		style="background-image: url('${pageContext.request.contextPath}/assets-post/img/one-page-wonder/makeup-forever/primary.jpg')">
+    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -69,18 +69,21 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 	    <p>
                 	    I will try my best to make this post a bit more "professional" and avoid 
-                	    pouring out my emotions and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
+                	    pouring out wild emotional content and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
                 	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
                 	    </p>
                     
-                    <h2 class="section-heading">Day 1: Makeup Forever Academy, Airbrush Introduction and The Roque Cozzette</h2>
+                    <h2 class="section-heading">Makeup Forever Academy, Airbrush Introduction and The Roque Cozzette</h2>
                     <p>I stood in front of the Makeup Forever Academy Building door, a little unfamiliar but giddy. 
                     It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
                     </p>
-                    hallway image
-                    <p>The pieces of art and photographs laid across the hallway made the short walk to the Elevator 
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/hallway.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    	<p>The pieces of artwork and photographs laid across the hallway made the short walk to the Elevator 
                     a little enchanting, as if
-                    unicorns and stars and sunshine came in alive. Makeup Forever Academy is at the 3rd Floor of the Building.</p>
+                    unicorns and stars and sunshine came in alive. Okey I know I know, I will stop the emotions.
+                    Makeup Forever Academy is at the 3rd Floor of the Building.</p>
                     lobby image
                     <p>Here I am! Right in front of that Lovely Logo.</p>
                     classroom
@@ -126,11 +129,12 @@
 					<p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
 					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
-					feeling a little out of place and humbled and all,
+					feeling a little out of place with questions of what is this IT consultant doing here,
 					Roque told me - "Don't you call yourself a Beginner nor second-doubt yourself anymore. 
-					From now on, you are a Makeup Artist, own it." Sure I will! </p>
+					From now on, you are a Makeup Artist, you should own it." Sure I will! </p>
                 </div>
             </div>
+            <!--  Back to Top and Navigation to Home -->
             <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>

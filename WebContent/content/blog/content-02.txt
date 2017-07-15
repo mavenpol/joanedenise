@@ -1,0 +1,7 @@
+I have a full-list of topics (actually, they're my future enhancements that I want to explore to implement and talk about).
+
+1. Converting the Dynamic Web Project into a Maven Project.
+2. Gradle or Maven?
+3. Will Spring MVC really help me with my vision?
+4. Using a CDN. What it is and why is it cool.
+5. 
