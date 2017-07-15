@@ -11,18 +11,18 @@
     <title>Joane Denise</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="${pageContext.request.contextPath}/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
-    <link href="${pageContext.request.contextPath}/assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
     <!-- Plugin CSS -->
-    <link href="${pageContext.request.contextPath}/assets/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="${pageContext.request.contextPath}/assets/css/joanedenisev1.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">
 
     <!-- Temporary navbar container fix -->
     <style>
@@ -62,7 +62,7 @@
                     
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Blog <b class="caret"></b></a>
-                        <ul class="navbar-nav ml-auto dropdown-menu">
+                        <ul class="ml-auto dropdown-menu">
                             <li class="nav-item">
                                 <a class="nav-link" href="${pageContext.request.contextPath}/blog/blog-tech.jsp">Tech</a>
                             </li>
@@ -135,11 +135,11 @@
             <div class="row no-gutter popup-gallery" onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp'">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" target="_self" class="portfolio-box">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/airbrush.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/airbrush.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
-                                    Airbrush Makeup Training
+                                    Airbrush Makeup Workshop
                                 </div>
                                 <div class="project-category text-faded">
                                     Makeup Forever Academy<br/>
@@ -151,7 +151,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="#">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/pure-glam.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/pure-glam.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -167,7 +167,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="#">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/gigs.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/gigs.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="#">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/it-profile.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/it-profile.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="#">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/tech-blog.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/tech-blog.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -203,7 +203,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="#">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/travels.jpg" alt="">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/travels.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
@@ -247,17 +247,17 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets/vendor/jquery/jquery.min.js"></script>
-    <script src="${pageContext.request.contextPath}/assets/vendor/tether/tether.min.js"></script>
-    <script src="${pageContext.request.contextPath}/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/jquery/jquery.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/tether/tether.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
-    <script src="${pageContext.request.contextPath}/assets/vendor/scrollreveal/scrollreveal.min.js"></script>
-    <script src="${pageContext.request.contextPath}/assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="${pageContext.request.contextPath}/assets/js/creative.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/js/creative.js"></script>
     
                     
 </body>
