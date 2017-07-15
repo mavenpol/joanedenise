@@ -59,7 +59,13 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
-                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="other">TechBlog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="other">Lifestyle</a>
+                    </li>
+                    <!-- Forget about the dropdown for now. Let's keep it simple.
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Blog <b class="caret"></b></a>
                         <ul class="ml-auto dropdown-menu">
@@ -71,7 +77,7 @@
                             </li>
                         </ul>
                     </li>
-                    
+                     -->
                 </ul>
             </div>
         </div>
@@ -222,21 +228,26 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 text-center">
                     <h2 class="section-heading">Connect with Me</h2>
-                    <hr class="primary"/>
-                    <p>
-                    You can reach me via my Instagram (for now). <i>Click here</i> <i class="fa fa-1x fa-long-arrow-right text-primary sr-icons"></i>  
-                    <a href="https://www.instagram.com/joanedenise">
-                			<i class="fa fa-2x fa-instagram text-primary sr-icons"></i>
-                		</a>.
-                    <br /> I have just started opening up to the world so bear with me a bit, my Social Media / PR Team (a.k.a. Me) is 
+                    <hr class="primary">
+                    You can reach me via my Instagram (for now).
+                    I have just started opening up to the world so bear with me a bit, my Social Media / PR Team (a.k.a. Me) is 
                     not as elegant and organized yet.
-                    </p>
+                </div>
+                <div class="col-lg-4 offset-lg-2 text-center">
+                	    <a href="www.instagram.com/joanedenise">
+                    <i class="fa fa-3x fa-instagram text-primary sr-icons"></i>
+                    </a>
+                    <p>@joanedenise</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-3x fa-envelope-o text-primary sr-contact"></i>
+                    <p>Other Means TBD</p>
                 </div>
             </div>
         </div>
     </section>
     
-     <footer>
+    <footer>
         <div class="container">
             <div class="row">
             		<div class="col-lg-12 col-md-12 text-center">

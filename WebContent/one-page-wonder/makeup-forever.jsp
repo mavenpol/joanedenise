@@ -39,30 +39,8 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    Menu <i class="fa fa-bars"></i>
-                </button>
                 <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp">JOANE DENISE</a>
             </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="post.html">Sample Post</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
         </div>
         <!-- /.container -->
     </nav>
@@ -90,10 +68,48 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 	    <p>
-                	    I have been  
+                	    I will try my best to make this post a bit more "professional" and avoid 
+                	    pouring out my emotions and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
+                	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
                 	    </p>
                     
-                    <h2 class="section-heading">The Final Frontier</h2>
+                    <h2 class="section-heading">Day 1: Makeup Forever Academy, Airbrush Introduction and The Roque Cozzette</h2>
+                    <p>I stood in front of the Makeup Forever Academy Building door, a little unfamiliar but giddy. 
+                    It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
+                    </p>
+                    hallway image
+                    <p>The pieces of art and photographs laid across the hallway made the short walk to the Elevator 
+                    a little enchanting, as if
+                    unicorns and stars and sunshine came in alive. Makeup Forever Academy is at the 3rd Floor of the Building.</p>
+                    lobby image
+                    <p>Here I am! Right in front of that Lovely Logo.</p>
+                    classroom
+                    <p>There are I think 4 workshop rooms in there. I haven't been to the other ones, but 
+                    the one where we are in are very conducive for makeup learning. The lights are awesome, 
+                    the workstations are very well separated. There are Makeup Forever products everywhere! 
+                    And they are free to use (for learning of course :D).</p>
+                    Roque Cozzette image
+                    <p>On our first day we were introduced to Roque Cozzette, 
+                    world-renowned Makeup Artist, and owner of Cozzette Beauty. I never imagined that I'd be this close to a Celebrity Makeup Artist and/or a Celebrity. 
+                    </p>
+                    roque putting airbrush makeup
+                    <p>Every day is demo day. The whole time Roque is demo-ing and instructing, I am not sure if I am 
+                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement.</p>
+                    
+                    <p>So here are what we talked about on our first day.</p>
+                    <ul>
+                    		<li>Why Airbrush?</li>
+                    		<li>Color Theory</li>
+                    		<li>Applying: Dot & Dash</li>
+                    		<li>Cleaning</li>
+                    		<li>Airbrushing the Face Chart</li>
+                    </ul>
+                    <p>There are very good learning materials that came in with the Workshop. I'm sure it's all on
+                    the internet. However, hearing it from the master and seeing him in action really makes a 
+                    lot of difference in the learning process.</p>
+                    
+                    demo
+                    
 
                     <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
 
@@ -105,13 +121,24 @@
                         <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
                     </a>
                     <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
+					
+					<h2 class="section-heading">Next Steps</h2>
+					<p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
+					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
+					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
+					feeling a little out of place and humbled and all,
+					Roque told me - "Don't you call yourself a Beginner nor second-doubt yourself anymore. 
+					From now on, you are a Makeup Artist, own it." Sure I will! </p>
                 </div>
             </div>
+            <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Back to Top</span></a>
+            	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Home</span></a>
         </div>
     </article>
-
-    <hr>
 
      <footer>
         <div class="container">
