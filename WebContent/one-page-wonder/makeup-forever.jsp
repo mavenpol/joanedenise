@@ -73,7 +73,7 @@
                 	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
                 	    </p>
                     
-                    <h2 class="section-heading">Makeup Forever Academy, Airbrush Introduction and The Roque Cozzette</h2>
+                    <h2 class="section-heading">Makeup Forever Academy</h2>
                     <p>I stood in front of the Makeup Forever Academy Building door, a little unfamiliar but giddy. 
                     It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
                     </p>
@@ -84,18 +84,46 @@
                     a little enchanting, as if
                     unicorns and stars and sunshine came in alive. Okey I know I know, I will stop the emotions.
                     Makeup Forever Academy is at the 3rd Floor of the Building.</p>
-                    lobby image
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/lobby.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Here I am! Right in front of that Lovely Logo.</p>
-                    classroom
-                    <p>There are I think 4 workshop rooms in there. I haven't been to the other ones, but 
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/lobby-other-side.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>I'm feeling so New York here. It's industrial but elegant.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/classroom.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>There are I think 4 workshop rooms in there. I haven't been to the other areas, but 
                     the one where we are in are very conducive for makeup learning. The lights are awesome, 
                     the workstations are very well separated. There are Makeup Forever products everywhere! 
                     And they are free to use (for learning of course :D).</p>
-                    Roque Cozzette image
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/makeup-chairs.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>And I long to have those Makeup Chairs! We use the same chairs for class and for the hands-on. 
+                    There are plenty.</p>
+                    
+                    <h2 class="section-heading">The Roque Cozzette</h2>
                     <p>On our first day we were introduced to Roque Cozzette, 
-                    world-renowned Makeup Artist, and owner of Cozzette Beauty. I never imagined that I'd be this close to a Celebrity Makeup Artist and/or a Celebrity. 
-                    </p>
-                    roque putting airbrush makeup
+                    world-renowned Makeup Artist, and owner of Cozzette Beauty. 
+                    I never imagined that I'd be this close to a Celebrity Makeup Artist and/or a Celebrity. 
+                    Roque (pronounced as "Rowkey") is not just a Makeup Artist, he is everything else!
+                    He's a photographer, painter, web designer, etc. The most surprising thing I experienced in his class 
+                    is his motivational and inspirational messages. What I learned from this class is more than just
+                    Airbrush Makeup. For example, a few things that sticked.</p>
+                    <blockquote>Surround yourself with "good vibes". Just block negativity out of your way. 
+                    Believe in yourself, learn from your mistakes and move on. (on haters and unsatisfied clients)</blockquote>
+                    <blockquote>Find your purpose as a Makeup Artist. And the purpose I suggest for you is to 
+                    just get paid. There is value in what you do.</blockquote>
+                    <p>Since this is not really the main industry I am in and that this is just a 
+                    hobby, I often de-value what I do and offer free makeup services a lot. Roque asked me to stop.
+                    I know that it's just </p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day1-demo.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    
                     <p>Every day is demo day. The whole time Roque is demo-ing and instructing, I am not sure if I am 
                     really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement.</p>
                     
