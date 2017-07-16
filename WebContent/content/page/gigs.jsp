@@ -12,14 +12,14 @@
     <title>Makeup Gigs and Fashion Shows</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
     <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">    
-    <link href="${pageContext.request.contextPath}/assets-post/css/clean-blog.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="${pageContext.request.contextPath}/assets-post/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="${pageContext.request.contextPath}/assets-blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
@@ -68,28 +68,40 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 
                 		---
-					<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+					<span class="caption text-muted">test</span>
                     		
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day2-closer.jpg" 
-                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                   		src="${pageContext.request.contextPath}/assets-page/.." 
+                    		alt="Joane Denise's Makeup Gigs">
                     	---
                     	
-                    	<p>I wanted to share the first gigs I've done in the Makeup Artistry World.
-                    	The reason they're here because I learned and realized so much during these times. 
-                    	
+                    	<p>Everybody has to start with something.
+                    	So, I wanted to share the first gigs I've done in the Makeup Artistry World. 
                     	</p>
                     	
                     	<h2 class="section-heading">Dora Vera</h2>
-                    <p>I wanted to pay homage to the makeup artists who mentored and helped me start my 
-                    career as a makeup artist. I am very grateful for meeting Dora Vera, </p>
+                    <p>I wanted to recognize the Makeup Artists who mentored and helped me start my 
+                    career as a Makeup Artist. I am very grateful for meeting Dora Vera, 
+                    San Antonio Makeup Artist and owner of The Look Hair and Makeup Studio. 
+                    Dora dragged me along to her gigs 
+                    and taught me the basics of running (or being) in an assembly line. I see a lot 
+                    of experience running along her veins and I am very glad to be working and learning
+                    alongside her.
+                    </p>
+                    
+                    <h2 class="section-heading">Bevello Fashion Show</h2>
+                    <p>I am very nervous going into this Fashion Show because it is
+                    truly my first-time to work behind the runway. </p>
+                    
+                    
                     	
-                    	
-                    	I learned something crucial here - first impressions matter. You have to look your best.
+                    	<p>I learned something crucial here - First Impressions Matter. 
                     	This industry is a little judgy (for lack of a better term).
-                    	Which makes sense, because would you allow a "threader" to thread your brows when he/she 
-                    	has very ungroomed brows? If you're gonna go into a gig in a simple face, 
-                    	foundation, some cheek color, a little tinted lips and a groomed brows should be OK. 
+                    	Which makes sense, because for example would you allow a "Threader" to thread your brows when he/she 
+                    	has very un-groomed or decently shaped brows? 
+                    	It's not enough that you show your clients that you clean your makeup tools every time. Before you even go 
+                    	there, be sure that you are clean-looking and presentable./p> 
+                    	
                     	
                     	From the makeup workshops i noted down the steps on getting the whole makeup done.
                     	
@@ -157,13 +169,13 @@
     </footer>
 	
     <!-- jQuery -->
-    <script src="${pageContext.request.contextPath}/assets-post/vendor/jquery/jquery.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/vendor/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets-post/js/clean-blog.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/js/clean-blog.js"></script>
     
     <!-- Disqus -->
 	<script id="dsq-count-scr" src="//joanedenise.disqus.com/count.js" async></script>
