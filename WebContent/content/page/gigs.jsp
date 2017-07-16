@@ -178,19 +178,39 @@
                     	<p>As you can notice if you got at this point, I'm building my supporting tools slowly.</p>
                     	
                     	<h2 class="section-heading">Shopzelle Boutique and Fashion Show</h2>
-                    <p></p>
+                    <p>Dora endorsed me to do Shopzelle Boutique's makeup for a unique Fashion Show. </p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-layout.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">The stores that the models are wearing are just around.</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-fashionlayout.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">Rehearsals</span>
+                    
+                    <p>I thought 5 girls is manageable in 2 hours. But I was wrong. 
+                    I think I spent 70% of my makeup time on the first girl and the rest are just a breeze.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-all-girls.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">I managed to survive and complete them all.</span>
+                    <p>Another lesson learned here: Time Management.
+                    	From the makeup workshops I noted down the steps on getting a whole face makeup done.
+                    	During fashion shows or maybe during events with assembly lines of sorts,
+                    	those steps need not to be followed procedurally. There really aren't any cookie cutter steps. 
+                   	The important thing is that the models get out w/ glowing skin so they won't look pale when the 
+                   	lights are on (unless of course if pale is the theme of the show). If you need to skip something, 
+                    	surprisingly, those lovely eyeshadows can be skipped. Skin has to go first. To translate - 
+                    	Foundation, Brows, Cheeks and Lip Color.</p>
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-all.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">All in all it was fun.</span>
+                    <p>I thought I was already all good and ready with my new Makeup Bag, Makeup Chair. However,
+                    I'm still missing something. I realized I need to bring my makeup light.</p>
                     	
-                    	From the makeup workshops i noted down the steps on getting the whole makeup done.
-                    	
-                    	those steps need not to be followed procedurally... if it's a time-paced event 
-                    	and there's an assembly line, like
-                    	fashion shows, there are no steps. If you need to skip something, 
-                    	i was surprised even that eyes can be skipped. Skin has to go first.
-                    	Foundation, Brows, Cheeks and Lip Color.
-                    	
-					
-					Shopzelle - I realized I need to bring a makeup light
-                    	
+                    	<h2 class="section-heading">Hayley</h2>
+                    
                 </div>
             </div>
         </div>
