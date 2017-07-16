@@ -70,11 +70,40 @@
                 		---
 					<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
                     		
-                    <h2 class="section-heading">Beauty Makeup</h2>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day2-closer.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	---
+                    	
+                    	<p>I wanted to share the first gigs I've done in the Makeup Artistry World.
+                    	The reason they're here because I learned and realized so much during these times. 
+                    	
+                    	</p>
+                    	
+                    	<h2 class="section-heading">Dora Vera</h2>
+                    <p>I wanted to pay homage to the makeup artists who mentored and helped me start my 
+                    career as a makeup artist. I am very grateful for meeting Dora Vera, </p>
+                    	
+                    	
+                    	I learned something crucial here - first impressions matter. You have to look your best.
+                    	This industry is a little judgy (for lack of a better term).
+                    	Which makes sense, because would you allow a "threader" to thread your brows when he/she 
+                    	has very ungroomed brows? If you're gonna go into a gig in a simple face, 
+                    	foundation, some cheek color, a little tinted lips and a groomed brows should be OK. 
+                    	
+                    	From the makeup workshops i noted down the steps on getting the whole makeup done.
+                    	
+                    	those steps need not to be followed procedurally... if it's a time-paced event 
+                    	and there's an assembly line, like
+                    	fashion shows, there are no steps. If you need to skip something, 
+                    	i was surprised even that eyes can be skipped. Skin has to go first.
+                    	Foundation, Brows, Cheeks and Lip Color.
+                    	
+					Chloe ROse - 
+					
+					realized i need a makeup chair
+					
+					Shopzelle - I realized I need to bring a makeup light
                     	
                 </div>
             </div>

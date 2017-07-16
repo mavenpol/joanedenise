@@ -48,7 +48,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" 
-    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/primary.jpg')">
+    		style="background-image: url('${pageContext.request.contextPath}/assets-page/img/makeup-forever/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -77,33 +77,33 @@
                     It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
                     </p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/hallway.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/hallway.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>The pieces of artwork and photographs laid across the hallway made the short walk to the Elevator 
                     a little enchanting, as if
                     unicorns and stars and sunshine came in the room so alive. Okey I know I know, I will stop the emotions.
                     Makeup Forever Academy is at the 3rd Floor of the Building.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/lobby.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/lobby.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Here I am! Right in front of that Lovely Logo.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/lobby-other-side.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/lobby-other-side.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>I'm feeling so New York here. It's industrial but elegant.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/classroom.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/classroom.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>There are I think 4 workshop rooms in there. I haven't been to the other areas, but 
                     the one where we are in are very conducive for makeup learning. The lights are awesome, 
                     the workstations are very well separated. </p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/makeup-chairs.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/makeup-chairs.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>And I long to have those Makeup Chairs! We use the same chairs for class and for the hands-on. 
                     There are plenty.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/mufe-all-over.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/mufe-all-over.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>There are Makeup Forever products everywhere! 
                     And they are free to use (for learning of course :D).</p>
@@ -124,17 +124,17 @@
                     <p>Since this is not really the main industry I am in and that this is just a 
                     hobby, I often de-value what I do and offer free makeup services a lot. Roque asked me to stop. </p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day1-demo.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-day1-demo.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Every day is demo day. Here, he demo'ed the basics of airbrush. 
                     It was my first time to see an actual air-brush, can you imagine how I felt to see it in action.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day1-beauty.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>I was so curious how it would look like up-close. My main questions were - will it look cakey? Does it feel heavy? 
                     Apparently it isn't.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty-closeup.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day1-beauty-closeup.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Something that blew my mind a bit is about "minimalism". You don't have to airbrush everything 
                     because "that's just the way it should be". Make it as natural as possible by 
@@ -145,13 +145,13 @@
                     
                     <h2 class="section-heading">The Tools</h2>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/kett-jett.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/kett-jett.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>I was introduced to Kett Cosmetics, Cozzette Brushes and the Kett Jett.
                     I was under the impression that airbrush compressors are big and all. 
                     The Ket Jett is small and decent size. It's something I could carry on-the-go.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/cozzette-and-kett.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/cozzette-and-kett.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Oh my those Cozzette Brushes, I am in-love with them! There are plenty of things I realized in this workshop.
                     And one of them is about the tools I use and how I fall right away for those commercial ones.
@@ -163,7 +163,7 @@
                     cute "Brush Vessels" that you see here, don't you want to sort out your brushes into different containers and
                     color-code them? I would!</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/the-brush-cleaner.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/the-brush-cleaner.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Finally Roque introduced to us a new way of cleaning the makeup brushes and making them ready for
                     use immediately. It's the next to automation that I can imagine for cleaning brushes. I think I spent 
@@ -176,68 +176,68 @@
                     I had fun actually on those exercises, you remember those times when the coloring book became a hit for adults?
                     Face Charts became my coloring book and the makeup kits became my crayolas.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-wip.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-wip.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Airbrushing a Face Chart is definitely #goals!</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-more-wip.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-more-wip.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>I know it is hard, because just those "dot and dash" exercises we had were a challenge for first-timers 
                     	like me. But Roque here just made it look so easy.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-details.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-details.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>You can always go to the brush for those details.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-final.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-final.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     		<span class="caption text-muted">Final Product</span>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-me.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-me.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
                     		
                     <h2 class="section-heading">Beauty Makeup</h2>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day2-closer.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-day2-closer.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>After this course I realized that I wanted to concentrate on Beauty Makeup.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-on-eye.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-on-eye.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>The whole time Roque is demo-ing and instructing, I am not sure if I am 
                     really absorbing everything. I was sitting there watching him work and just awe-ing in amazement, 
                     especially that time when he applied eye shadow via Airbrush!</p>
                     	<p>The final product is obviously a perfection.</p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-beauty-look.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day2-beauty-look.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-beauty-intense.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day2-beauty-intense.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>Our model is werking it! The moment the brushes are down and our cameras start to click, she just 
                     	poses from all directions.</p>
                     	<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-working-it.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day2-working-it.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">Work work work work!</span>
                     
                     <h2 class="section-heading">Tattoo Coverage</h2>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day3-tat-demo-before.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day3-tat-demo-before.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">Before</span>
                     <p>The last day, we were taught how to cover a tattoo or some body art that for example, 
                     a Fashion show don't want to show. </p>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day3-tat-demo-after.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day3-tat-demo-after.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">After applying Airbrush Magic</span>
                     
                     
                     <h2 class="section-heading">Shout out to my Girls</h2>
                     <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/me-and-the-girls.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/me-and-the-girls.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">Introducing my gorgeous classmates:
                     Alma, Me and Gabriela (I wish I had a picture of Veronica, a
@@ -246,7 +246,7 @@
                     
                    	<h2 class="section-heading">Next Steps</h2>
 					<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/me-and-roque.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/me-and-roque.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 

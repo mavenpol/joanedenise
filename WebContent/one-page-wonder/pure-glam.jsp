@@ -48,7 +48,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" 
-    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/primary.jpg')">
+    		style="background-image: url('${pageContext.request.contextPath}/assets-page/img/pure-glam/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -69,11 +69,9 @@
                 	<p>I've always wanted to get a formal education about Makeup Artistry.
                 	But it's been foregone due to either I don't have the funds or I just 
                 	couldn't skip work. <i>I have to work, you know. I need to fund my makeup addiction.</i></p>
-                	    <h2 class="section-heading">Pure Glam Makeup Academy</h2>
-                	    <p>Finally Pure Glam Makeup Academy came into my life! It is the only one 
-                	    (based from google) that gives Night Classes! 
-                	   
-                	    <p>I was introduced to <b>Jasmine Brock</b>,
+                	    
+                	   	<h2 class="section-heading">Jasmine Brock</h2>
+                	    <p>I was introduced to Jasmine Brock,
                 	    owner of Pure Glam Makeup Academy and my very first Makeup Mentor.
                 	    Jasmine's expertise is unquestionable. As always, I was amazed 
                 	    whenever she does her demo'es (and I always wished I'd reach that level).
@@ -82,8 +80,12 @@
                 	    Aside from that, she is so fun to work with! I was always looking 
                 	    forward for the next day. </p>
                 	    
+                	    
+                	    <h2 class="section-heading">Pure Glam Makeup Academy</h2>
                 	    <p>www.pureglammakeupacademy.com</p>
                 	    
+                	    <p>Pure Glam Makeup Academy is the only school I know in San Antonio that
+                	    provides Night classes for professionals like me.                	    
                 	    <p>This workshop has jumpstarted my "career" as a Makeup Artist. The course outline
                 	    is intensive, covers all the basics and advanced techniques of Makeup Artistry
                 	    that you'll use for your potential clients. I love that the first thing we learned is
@@ -91,7 +93,7 @@
                 	    I'm a neat freak and it's very important to me.</p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/tools-bh.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/tools-bh.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     	
                 	    <p>When you enroll to the workshop it's an all-in deal. Forgive me for sounding like 
@@ -105,7 +107,7 @@
                 	    some though, but the brushes are still intact.</p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/tools-sfx.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/tools-sfx.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     	
                 	    <p>During Special Effects Course, I learned about Mehron and Ben Nye, which turned out to be
@@ -120,7 +122,7 @@
                 	    </p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/colored-smokey.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/colored-smokey.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     	<p>I know I could have done a little better on the Colored-Smokey department but 
                     	I think I'm quite proud of the brows I did here. This workshop (not the internet) 
@@ -132,14 +134,14 @@
                 	    foundation or colors on different skin tones.</p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/avante-garde-1.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/avante-garde-1.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    
                 	    <p>There are times when Jasmine has to take over on the modeling department when 
                 	    the models couldn't make it. Here is my final Avante Garde look.</p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/avante-garde-2.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/avante-garde-2.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
                     	<p>Here's the other side. I thought that you could go crazy with Avante Garde but not literally.
@@ -148,25 +150,25 @@
                     	for me - I have to slow down on the color application and just build up.</p>
                     	
                     	<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/smokey-selfie.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/smokey-selfie.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     	<span class="caption text-muted">Smokey Selfie</span>
                     
                 	    	
                 	    	<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-bruise.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/sfx-bruise.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
                     	<p>I had fun during the Special Effects Course because it is something I could use for Halloween!</p>
                     	
                     	<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-cut.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/sfx-cut.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
                     	<p>We were taught to make bruises, black-eye, a yucky cut and how to make a person look old.</p>
                     	
                     	<img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-fun-times.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/sfx-fun-times.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">Fun Times. Our "old lady" turned-out to be a Zombie.</span>
                     
@@ -177,35 +179,35 @@
                 	    and meeting new connections from the other side of the professional world is another perk I get
                 	    to experience. </p>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-setup.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/grad-setup.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">Here's my Professional Setup</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-work-2-sorry.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-work-2-sorry.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">I'm so sorry for my unprofessional Hand.</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-work-brows.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-work-brows.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">Taking my time on the brows. Again, I'm so sorry for my unprofessional Hand.</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-ariadna.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/grad-ariadna.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    <span class="caption text-muted">Waiting for our Turn</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-final-shot.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-final-shot.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    <span class="caption text-muted">Final Shot</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-ariadna-and-i.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-ariadna-and-i.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    <span class="caption text-muted">w/ Me this time</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-everyone.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-everyone.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    <span class="caption text-muted">Everyone!</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-happy.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/grad-happy.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    <span class="caption text-muted">Just Happy for this Moment</span>
                 	    

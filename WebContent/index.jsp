@@ -127,7 +127,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
-                        <h3>Travel, Write</h3>
+                        <h3>Travel, Write, Live</h3>
                         <p class="text-muted">I travel when the opportunity is there. And I like to write about a lot of things.</p>
                     </div>
                 </div>

@@ -1,0 +1,3 @@
+I realized that this is the first time I've used my Macbook for a real development project. 
+And how I appreciate it's power.
+Multiple applications open - PS, Lightroom, Eclipse, Server... but no freezing.
