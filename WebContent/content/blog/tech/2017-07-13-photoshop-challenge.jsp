@@ -104,7 +104,7 @@
             <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>
-            	<a id="back-to-top" href="${pageContext.request.contextPath}/content/blog/home-tech.jsp" class="btn btn-primary btn-xs back-to-top" 
+            	<a id="back-to-top" href="${pageContext.request.contextPath}/content/page/home-tech.jsp" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Back to Tech Home" data-toggle="tooltip" 
             		data-placement="left">Tech Blog Home</span></a>
             	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 

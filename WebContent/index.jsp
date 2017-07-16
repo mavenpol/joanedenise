@@ -63,7 +63,7 @@
                         <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-tech.jsp">TechBlog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="other">Lifestyle</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Lifestyle</a>
                     </li>
                     <!-- Forget about the dropdown for now. Let's keep it simple.
                     <li class="nav-item dropdown">

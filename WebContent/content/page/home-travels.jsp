@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <title>Tech Blog Home</title>
+    <title>Joane Denise Travels</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -49,9 +49,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Tech Blog</h1>
+                        <h1>Travels</h1>
                         <hr class="small">
-                        <span class="subheading">here is where I whine about my code and other things around it.</span>
+                        <span class="subheading">just a few snapshots and write-ups about my travels and adventures</span>
                     </div>
                 </div>
             </div>
@@ -61,11 +61,9 @@
         <!-- Main Content -->
     <div class="container">
     		<div class="row">
-    			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
+    			<p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
     				but I think I am one. Thankfully, majority of the society today think that geeks are now the 
     				"new cool", so I think I'm on the right track here.</p>
-    			</div>
     		</div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -82,34 +80,7 @@
                 </div>
                 <hr>
             </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-                        <h2 class="post-title">The Photoshop Challenge</h2>
-                    </a>
-                    <p>You know when you're building an application, or just a simple website, it's not enough that you know how 
-				to code it. If you want to see an "artful" look... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-                        <h2 class="post-title">Considering Java CMS</h2>
-                    </a>
-                    <p>The first step of getting over Wordpress is finding a CMS that is Java-based,
-                	  so "templating" will be a bit easier for me.... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
-            </div>
+ 
         </div>
     </div>
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
