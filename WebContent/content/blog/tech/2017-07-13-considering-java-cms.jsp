@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Saying Goodbye to Wordpress</title>
+    <title>Considering Java CMS</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -53,9 +53,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Saying Goodbye to Wordpress</h1>
+                        <h1>Considering Java CMS</h1>
                         <!--h2 class="subheading"></h2-->
-                        <span class="meta">by Joane Denise<br/> July 15, 2017</span>
+                        <span class="meta">by Joane Denise<br/> July 13, 2017</span>
                     </div>
                 </div>
             </div>
@@ -67,68 +67,47 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-<p>I've been blogging for the past 10++ years. I've been hooked to Blogging NOT because 
-I want to pour myself out to the world and beg for attention... Okey but wait, that might be partially true 5 years ago...
-and that was over now thank God! </p>
-
-<p>The truth is, I was hooked because I was very interested on the Technology around the blogging world - how it all works, from the 
-frontend up to the backend. And I experimented it all - Blogger, Multiply, LiveJournal, Tabulas, i.ph, iWeb, and finally Wordpress. 
-I remember getting frustrated on why my iWeb pages are loading slowly on Windows devices, and searching voraciously on the net 
-how to optimize an Apple-ran blogging platform, but to no extent. Up to the point of just throwing it all and migrating (or
-manually transferring posts and media) to WordPress. Wordpress and I were happy together for around 10 years.</p>
-
-<h2 class="section-heading">How it all began</h2>
-                    
-
-<p>WordPress is very powerful, and it sure gets the job done. The themes are just wonderful! Customization is a breeze.
-There are times though when I want to publish my "own look and feel", and editing a few PHP lines is never enough. 
-I really don't want to focus on just the content. 
-I want to do more. I want to have full-control of how my whole application works. </p>
-
-<p>And I thought that grabbing a PHP book and studying WordPress and templating was so easy. 
-For almost 10 years, I had that desire. I studied child-templates and even got into using Genesis, a WordPress 
-"Framework" which makes it easier to customize even more. The double-quotes - because, 
-I thought at first that Genesis is some kind of "Spring" in the PHP world, but it's really just a 
-another WordPress theme that you can, in Java lingo, <i>extend</i> on. 
-I know to some it's easy to study the Genesis framework but I thought it was never enough and I need to know more.
-I just never found the dedication.  </p>
-
-<p>Until one night in our favorite Chinese Restaurant in San Antonio, my fortune cookie gave me this advice: "Do not 
-let what you cannot do interfere with what you CAN do." I know it's just a stupid fortune cookie but it did 
-gave me an epiphany that night. Why do I have to stick with something I don't know and not very familiar of when 
-I can do it in the way that I know. Why learn PHP when I know Java!</p>
-
-<h2 class="section-heading">Considerations</h2>
-
-<p>I've been in the Software Development world ever since, I know how to make a web application. I even know how to make a powerful one.
-Right now I don't know if I really need that "power", but the point is... I know how to make a simple website that I 
-can have full control of! Some of the considerations I was talking to in my mind:<p>
-
-<blockquote>Q: What about the simplicity of a one-click-Wordpress-installation in all the webhosts available? 
-<br/>A: I say - Get a Linux VM, Install Tomcat, Deploy the Web Application. Easy peasy. 
-I've supported Application Servers before, I know how they work.</blockquote>
-
-<blockquote>Q: What about the Responsive Themes that Wordpress can offer?
-<br/>A: Uhm, bootstrap! I'm sure there are more. And whenever I'm in dire need of a solution, 
-send the question to the internet and it will give me my answer. It's very easy to code these times. It's all provided for you,
-you just need to know where to put your code.</blockquote>
-
-<blockquote>Q: What about SEO?
-<br/>A: I am really not focused right now for promoting my content. I'm just one happy developer of my own application.</blockquote>
-
-
-<h2 class="section-heading">Next Steps</h2>
-
-<p>So this site is so simple right now. Just bare-bones Dynamic Web Application with multiple imported bootstrap content.
-I'm guessing that this "Tech Blog" of mine will just hold my improvements as I go to this wonderful world of development.</p>
-
+                	  <p>The first step of getting over Wordpress is finding a CMS that is Java-based,
+                	  so "templating" will be a bit easier for me.
+                	  </p>
+                	  <p>I searched and learned all Java-based CMS around but threw them all together because 
+                	  apart from the learning curve that I need to spend time on, they have too 
+                	  much features that I don't think I need yet.
+                	  </p>
+                	  <p>These CMS tools, were made because somebody got tired of editing html/xml files
+                	  and/or copying media files manually. Somebody felt the need for automation because that somebody got tired.
+                	  I want to feel that first before I go to the CMS route. I want to be that "somebody" first! I know someday it will
+                	  change but I'm feeling it right this moment so let me be. </p>
+                	  <p>Also, I'm pretty sure a non-programmer-person in some company wanted to edit the content without 
+                	  learning all these markup or these other programming languages. It made me remember
+                	  those ads of sorts about these CMSs who tells you that "You can do this thingy without touching code!". 
+                	  Unfortunately for me, at this moment, I want to touch code! 
+                	  I know it's pretty sadistic, but it makes me appreciate the tool 
+                	  more.
+                	  </p>
+                	  <p>CMS truly saves time. Let me speak about Magnolia CMS for now, because it's the only 
+                	  Java CMS that I've tinkered on. The biggest reason that made me stop pursuing it is that
+                	  I can develop a full-stack application faster than studying the plumbing and workings of 
+                	  Magnolia CMS. I know it will get better when you get the hang of it but then it always 
+                	  depends on the need. And my need is to get this site out there as soon as possible (I've 
+                	  waited 10 years already to remove my "i-can't-do-this-blocker"). I can't wait another minute more.  
+                	  Like all applications known to men, it doesn't have to be perfect on the first deploy.
+                	  There is always room for improvement (my improvements actually are listed on my Agile board).
+                	  It's going to be a fun crossing them off, and I want to do it while I still can.
+                	  </p>
+                	  <p>
+                	  I worry that when the time comes when I feel lazy on doing all these posts manually 
+                	  and finally open up again on a CMS, the migration is going to be a pain! I'm sure it will be. 
+                	  So I listed out all the features and improvements that I am going to do so that my migration 
+                	  will not be as bad. More on those in a separate post/s.
+                	  </p>
+				
                 </div>
             </div>
+            
         </div>
     </article>
     <br/>
-    
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
 			<!--  Back to Top and Navigation to Home -->
             <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
@@ -141,10 +120,10 @@ I'm guessing that this "Tech Blog" of mine will just hold my improvements as I g
             		role="button" title="Back to Home" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>
     </div>
+    <br/>
+    <br/>
+    <br/>
     
-    <br/>
-    <br/>
-    <br/>
     <!-- COMMENTS SECTION START -->
     <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
     </div>

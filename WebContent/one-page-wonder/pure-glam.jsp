@@ -72,13 +72,8 @@
                 	    <h2 class="section-heading">Pure Glam Makeup Academy</h2>
                 	    <p>Finally Pure Glam Makeup Academy came into my life! It is the only one 
                 	    (based from google) that gives Night Classes! 
-                	    
-                	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/me-and-jasmine.jpg" 
-                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
-                    	<span class="caption text-muted">This was taken at the of Queen of Soul Pageant in San Antonio</span>
-                    	
-                	    <p>I was introduced to Jasmine Brock,
+                	   
+                	    <p>I was introduced to <b>Jasmine Brock</b>,
                 	    owner of Pure Glam Makeup Academy and my very first Makeup Mentor.
                 	    Jasmine's expertise is unquestionable. As always, I was amazed 
                 	    whenever she does her demo'es (and I always wished I'd reach that level).
@@ -87,6 +82,7 @@
                 	    Aside from that, she is so fun to work with! I was always looking 
                 	    forward for the next day. </p>
                 	    
+                	    <p>www.pureglammakeupacademy.com</p>
                 	    
                 	    <p>This workshop has jumpstarted my "career" as a Makeup Artist. The course outline
                 	    is intensive, covers all the basics and advanced techniques of Makeup Artistry
@@ -129,7 +125,7 @@
                     	<p>I know I could have done a little better on the Colored-Smokey department but 
                     	I think I'm quite proud of the brows I did here. This workshop (not the internet) 
                     	taught me first that the brows shouldn't be ignored when doing makeup. I had been taking my time on brows
-                    	that sometimes it slowed me down, but again, takes a lot of practice to master it.</p>
+                    	since then. Sometimes it slowed me down, but again, takes a lot of practice to master it.</p>
                     	
                 	    <p>It's so nice that there are models whom we could apply our learnings on all the time!
                 	    The models are diverse as well, we are trained on applying the correct 
@@ -150,26 +146,86 @@
                     	You could go crazy as long as you are following a sort-of process. You can't just put paint
                     	on the model and hope that it would come out as some sort of an abstract art. Well, at least
                     	for me - I have to slow down on the color application and just build up.</p>
+                    	
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/smokey-selfie.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    	<span class="caption text-muted">Smokey Selfie</span>
+                    
                 	    	
                 	    	<img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-bruise.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
-                    	<p></p>
+                    	<p>I had fun during the Special Effects Course because it is something I could use for Halloween!</p>
+                    	
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-cut.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
+                    	<p>We were taught to make bruises, black-eye, a yucky cut and how to make a person look old.</p>
+                    	
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-fun-times.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    	<span class="caption text-muted">Fun Times. Our "old lady" turned-out to be a Zombie.</span>
+                    
+                	    <h2 class="section-heading">Graduation Night</h2>
+                	    
+                	    <p>Our last night is a real photo shoot! These pictures have my watermark on them but they
+                	    are taken by Kevin from Banana Glass Photography. It is a first for me to be behind a real photoshoot, 
+                	    and meeting new connections from the other side of the professional world is another perk I get
+                	    to experience. </p>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-setup.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    	<span class="caption text-muted">Here's my Professional Setup</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-work-2-sorry.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    	<span class="caption text-muted">I'm so sorry for my unprofessional Hand.</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-work-brows.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    	<span class="caption text-muted">Taking my time on the brows. Again, I'm so sorry for my unprofessional Hand.</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-ariadna.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    <span class="caption text-muted">Waiting for our Turn</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-final-shot.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    <span class="caption text-muted">Final Shot</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-ariadna-and-i.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    <span class="caption text-muted">w/ Me this time</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/bg-everyone.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    <span class="caption text-muted">Everyone!</span>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/grad-happy.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    <span class="caption text-muted">Just Happy for this Moment</span>
                 	    
                 </div>
             </div>
-            <!--  Back to Top and Navigation to Home -->
-            <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
-            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
-            		data-placement="left">Back to Top</span></a>
-            	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
-            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
-            		data-placement="left">Home</span></a>
         </div>
     </article>
-    <br/><br/>
+    <br/>
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
+       <!--  Back to Top and Navigation to Home -->
+       <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Back to Top</span></a>
+       <a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Home</span></a>    
+    </div>
+    <br/>
+    <br/>
+    <br/>
     
     <!-- COMMENTS SECTION START -->
     <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">

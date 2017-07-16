@@ -95,7 +95,12 @@
 				
                 </div>
             </div>
-            <!--  Back to Top and Navigation to Home -->
+            
+        </div>
+    </article>
+    <br/>
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
+			<!--  Back to Top and Navigation to Home -->
             <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>
@@ -105,9 +110,10 @@
             	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Back to Home" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>
-        </div>
-    </article>
-    <br/><br/>
+    </div>
+    <br/>
+    <br/>
+    <br/>
     
     <!-- COMMENTS SECTION START -->
     <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">

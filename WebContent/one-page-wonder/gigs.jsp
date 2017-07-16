@@ -2,13 +2,14 @@
 <html lang="en">
 
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    
-    <title>Tech Blog Home</title>
+
+    <title>Makeup Gigs and Fashion Shows</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +29,9 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
 </head>
+
 <body>
 
     <!-- Navigation -->
@@ -41,75 +44,43 @@
         </div>
         <!-- /.container -->
     </nav>
-    
+
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/content/img/tech-blog-home.jpg')">
+    <header class="intro-header" 
+    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1>Tech Blog</h1>
-                        <hr class="small">
-                        <span class="subheading">Here is where I whine about my code and other things around it.</span>
+                    <div class="post-heading">
+                        <h1>Makeup Gigs and Fashion Shows</h1>
+                        <span class="meta">San Antonio, Texas</span>
                     </div>
                 </div>
             </div>
         </div>
     </header>
-    
-        <!-- Main Content -->
-    <div class="container">
-    		<div class="row">
-    			<p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
-    				but I think I am one. Thankfully, majority of the society today think that geeks are now the 
-    				"new cool", so I think I'm on the right track here.</p>
-    		</div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-15-goodbye-wordpress.jsp">
-                        <h2 class="post-title">Saying Goodbye to Wordpress</h2>
-                    </a>
-                    <p>The truth is, I was hooked because I was very interested on the Technology around the blogging world - 
-                    how it all works, from the frontend up to the backend... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-15-goodbye-wordpress.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 15, 2017</p>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                
+                		---
+					<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                    		
+                    <h2 class="section-heading">Beauty Makeup</h2>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day2-closer.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    	---
+                    	
                 </div>
-                <hr>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-                        <h2 class="post-title">The Photoshop Challenge</h2>
-                    </a>
-                    <p>You know when you're building an application, or just a simple website, it's not enough that you know how 
-				to code it. If you want to see an "artful" look... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-                        <h2 class="post-title">Considering Java CMS</h2>
-                    </a>
-                    <p>The first step of getting over Wordpress is finding a CMS that is Java-based,
-                	  so "templating" will be a bit easier for me.... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
             </div>
         </div>
-    </div>
+    </article>
+    <br/>
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
        <!--  Back to Top and Navigation to Home -->
        <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
@@ -119,7 +90,34 @@
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>    
     </div>
-    <footer>
+    <br/>
+    <br/>
+    <br/>
+    <!-- COMMENTS SECTION START -->
+    <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    </div>
+		<script>
+
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			
+			/*var disqus_config = function () {
+				this.page.url = '${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp';  // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = 'Makeup-Forever'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://joanedenise.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+		</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+    <!-- COMMENTS SECTION END -->
+
+     <footer>
         <div class="container">
             <div class="row">
             		<div class="col-lg-12 col-md-12 text-center">
@@ -138,5 +136,9 @@
     <!-- Theme JavaScript -->
     <script src="${pageContext.request.contextPath}/assets-post/js/clean-blog.js"></script>
     
+    <!-- Disqus -->
+	<script id="dsq-count-scr" src="//joanedenise.disqus.com/count.js" async></script>
+
 </body>
+
 </html>

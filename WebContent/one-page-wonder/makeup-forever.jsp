@@ -251,22 +251,26 @@
                     <p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
 					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
-					feeling a little out of place with questions of what is this IT person doing here,
+					feeling a little out of place with questions of what is this software developer doing here,
 					Roque told me - "Don't you call yourself a Beginner nor second-doubt yourself anymore. 
 					From now on, you are a Makeup Artist, you should own it." Yessir! </p>
                 </div>
             </div>
-            <!--  Back to Top and Navigation to Home -->
-            <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
-            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
-            		data-placement="left">Back to Top</span></a>
-            	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
-            		role="button" title="Back to Home" data-toggle="tooltip" 
-            		data-placement="left">Home</span></a>
         </div>
     </article>
-    <br/><br/>
-    
+    <br/>
+	<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
+       <!--  Back to Top and Navigation to Home -->
+       <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Back to Top</span></a>
+       <a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Home</span></a>    
+    </div>
+    <br/>
+    <br/>
+    <br/>
     <!-- COMMENTS SECTION START -->
     <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
     </div>

@@ -171,7 +171,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/gigs.jsp'">
                     <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/gigs.jpg" alt="">
                         <div class="portfolio-box-caption">
