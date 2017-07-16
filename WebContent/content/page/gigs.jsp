@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Beginnings</h1>
+                        <h1>Gigs and Beginnings</h1>
                         <span class="meta">San Antonio, Texas</span>
                     </div>
                 </div>
@@ -86,10 +86,11 @@
                     the girls will just sit there with their ready-for-makeup game face on. It's like, boom boom boom!</p>
                     <p>After the hair and makeup, we all went to the backstage, and just waited there 
                     for powder or retouch for the next segment/s (e.g. Talent, Sportswear, Evening Wear, etc...). 
-                    <p>I had no idea what we really are supposed to do so I just imitated whatever 
+                    <p>I had no idea what we really are supposed to do backstage so I just imitated whatever 
                     Jasmine is doing. I actually realized by just seeing how Jasmine does stuff is that 
                     I need a "Makeup Belt Bag". It's so convenient to have one when you're chasing the girls and all 
-                    before they go out of the backstage. I enjoyed every bit of the process here.</p>
+                    before they go out of the backstage. Though fast-paced, I enjoyed every bit of the process here.
+                    I love pageants!</p>
                     <p>Finally after Q&A we got to rest and enjoy the show a bit.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/gigs/qos-from-afar.jpg" 
@@ -119,10 +120,10 @@
                    		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-w.dora.jpg" 
                     		alt="Joane Denise's Makeup Gigs">
                     <h2 class="section-heading">Bevello Fashion Show</h2>
-                    <p>I am very nervous going into this Fashion Show because it is
-                    another first-time to work behind the runway. I am clueless whether to show 
-                    that "hey I'm here and I know what I'm doing" or just chill and go on with it or just plainly faint in there. 
-                    The support I got from Dora and the models were phenomenal, those times. 
+                    <p>I am nervous going into this Fashion Show because it is
+                    another first-time to work behind a runway. I was clueless whether to show 
+                    that "hey I'm here and I know what I'm doing" or just plainly faint in there. 
+                    The support I got from Dora and the models were phenomenal that time. 
                     One of the models reminded me nicely to add mascara. Another one helped me 
                     	to contour her face better.</p>
                     <img class="img-responsive" 
@@ -150,7 +151,7 @@
                     	<p>I learned something crucial here - First Impressions Matter. 
                     	This industry is a little judgy (for lack of a better term).
                     	Which makes sense, because for example would you allow a "Threader" to thread your brows when he/she 
-                    	has very un-groomed or decently shaped brows? 
+                    	has very un-groomed or not-decently-shaped brows? 
                     	It's not enough that you show your clients that you clean your makeup tools every time. Before you even go 
                     	there, be sure that you are clean-looking and presentable.</p> 
                     	<h2 class="section-heading">Chloe Rose Boutique</h2>
@@ -189,13 +190,15 @@
                     <span class="caption text-muted">Rehearsals</span>
                     
                     <p>I thought 5 girls is manageable in 2 hours. But I was wrong. 
-                    I think I spent 70% of my makeup time on the first girl and the rest are just a breeze.</p>
+                    I think I spent 70% of my makeup time on the first girl and the rest is 
+                    pretty-much cramming.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-all-girls.jpg" 
                     		alt="Joane Denise's Makeup Gigs">
                     <span class="caption text-muted">I managed to survive and complete them all.</span>
-                    <p>Another lesson learned here: Time Management.
-                    	From the makeup workshops I noted down the steps on getting a whole face makeup done.
+                    <p>Another lesson learned from Dora here: Time Management.
+                    	From the makeup workshops I noted down the steps on getting a whole face makeup done (e.g. brows first, 
+                    	then eyes, then concealer, contour, etc.).
                     	During fashion shows or maybe during events with assembly lines of sorts,
                     	those steps need not to be followed procedurally. There really aren't any cookie cutter steps. 
                    	The important thing is that the models get out w/ glowing skin so they won't look pale when the 
@@ -206,8 +209,8 @@
                    		src="${pageContext.request.contextPath}/assets-page/img/gigs/shopzelle-all.jpg" 
                     		alt="Joane Denise's Makeup Gigs">
                     <span class="caption text-muted">All in all it was fun.</span>
-                    <p>I thought I was already all good and ready with my new Makeup Bag, Makeup Chair. However,
-                    I'm still missing something. I realized I need to bring my makeup light.</p>
+                    <p>I thought I was already all good and ready with my new Makeup Bag and Makeup Chair. However,
+                    I'm still missing something. I realized I need to bring my own makeup light.</p>
                     	
                     	<h2 class="section-heading">Lily</h2>
                     	<p>Finally I want to recognize some clients, whom I felt really confident on.</p>
