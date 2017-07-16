@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <title>Tech Blog Home</title>
+    <title>Joane Denise Purse Blog</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -42,79 +42,18 @@
         <!-- /.container -->
     </nav>
     
-    <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/assets-page/img/tech-blog-home.jpg')">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1>Tech Blog</h1>
-                        <hr class="small">
-                        <span class="subheading">here is where I whine about my code and other things around it.</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    
-        <!-- Main Content -->
-    <div class="container">
-    		<div class="row">
-    			<p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
-    				but I think I am one. Thankfully, majority of the society today think that geeks are now the 
-    				"new cool", so I think I'm on the right track here.</p>
-    		</div>
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-15-goodbye-wordpress.jsp">
-                        <h2 class="post-title">Saying Goodbye to Wordpress</h2>
-                    </a>
-                    <p>The truth is, I was hooked because I was very interested on the Technology around the blogging world - 
-                    how it all works, from the frontend up to the backend... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-15-goodbye-wordpress.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 15, 2017</p>
-                </div>
-                <hr>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-                        <h2 class="post-title">The Photoshop Challenge</h2>
-                    </a>
-                    <p>You know when you're building an application, or just a simple website, it's not enough that you know how 
-				to code it. If you want to see an "artful" look... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-preview">
-                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-                        <h2 class="post-title">Considering Java CMS</h2>
-                    </a>
-                    <p>The first step of getting over Wordpress is finding a CMS that is Java-based,
-                	  so "templating" will be a bit easier for me.... 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-considering-java-cms.jsp">
-							Read More.
-						</a>
-                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
-                </div>
-                <hr>
-            </div>
-        </div>
-    </div>
+
+	blog content here
+
+
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
        <!--  Back to Top and Navigation to Home -->
        <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>
+       <a id="back-to-top" href="${pageContext.request.contextPath}/page/home-lifestyle.jsp" class="btn btn-primary btn-xs back-to-top" 
+            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		data-placement="left">Back to Lifestyle Home</span></a>
        <a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>    
