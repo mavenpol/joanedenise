@@ -48,7 +48,7 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" 
-    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/primary.jpg')">
+    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -66,6 +66,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                	<p>You know, I'm a late bloomer when it comes to makeup. I know it exists, my </p>
+                	    <h2 class="section-heading">  y</h2>
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/hallway.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                    		
                 	    
                 </div>
             </div>
