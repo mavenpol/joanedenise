@@ -209,7 +209,16 @@
                     <p>I thought I was already all good and ready with my new Makeup Bag, Makeup Chair. However,
                     I'm still missing something. I realized I need to bring my makeup light.</p>
                     	
-                    	<h2 class="section-heading">Hayley</h2>
+                    	<h2 class="section-heading">Lily</h2>
+                    	<p>Finally I want to recognize some clients, whom I felt really confident on.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/senior-lily-eyes.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">Beautiful Lily Eyes</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/senior-lily.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    <span class="caption text-muted">End Product</span>
                     
                 </div>
             </div>
