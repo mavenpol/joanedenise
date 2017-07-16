@@ -60,7 +60,7 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/content/blog/home-tech.jsp">TechBlog</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-tech.jsp">TechBlog</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="other">Lifestyle</a>
@@ -195,7 +195,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/blog/home-tech.jsp'">
+                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-tech.jsp'">
                     <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/tech-blog.jpg" alt="">
                         <div class="portfolio-box-caption">
@@ -207,7 +207,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-lifestyle.jsp'">
                     <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/travels.jpg" alt="">
                         <div class="portfolio-box-caption">
