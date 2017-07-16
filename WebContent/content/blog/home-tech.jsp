@@ -11,14 +11,14 @@
     <title>Tech Blog Home</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->
     <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">    
-    <link href="${pageContext.request.contextPath}/assets-post/css/clean-blog.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="${pageContext.request.contextPath}/assets-post/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="${pageContext.request.contextPath}/assets-blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 
@@ -130,13 +130,13 @@
     </footer>
 	
     <!-- jQuery -->
-    <script src="${pageContext.request.contextPath}/assets-post/vendor/jquery/jquery.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/vendor/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets-post/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="${pageContext.request.contextPath}/assets-post/js/clean-blog.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-blog/js/clean-blog.js"></script>
     
 </body>
 </html>
