@@ -175,7 +175,7 @@
                 	    <h2 class="section-heading">Graduation Night</h2>
                 	    
                 	    <p>Our last night is a real photo shoot! These pictures have my watermark on them but they
-                	    are taken by Kevin from Banana Glass Photography. It is a first for me to be behind a real photoshoot, 
+                	    are taken by Kevin from <a href="https://www.flickr.com/photos/platinumpixels/">Banana Glass Photography</a>. It is a first for me to be behind a real photoshoot, 
                 	    and meeting new connections from the other side of the professional world is another perk I get
                 	    to experience. </p>
                 	    <img class="img-responsive" 

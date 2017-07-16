@@ -252,8 +252,11 @@
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
 					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
 					feeling a little out of place with questions of what is this software developer doing here,
-					Roque told me - "Don't you call yourself a Beginner nor second-doubt yourself anymore. 
-					From now on, you are a Makeup Artist, you should own it." Yessir! </p>
+					Roque told me - </p>
+					<blockquote>
+					Don't you call yourself a Beginner nor second-doubt yourself anymore. 
+					From now on, you are a Makeup Artist. Own it.
+					</blockquote>
                 </div>
             </div>
         </div>

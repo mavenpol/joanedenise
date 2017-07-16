@@ -66,42 +66,94 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                
-                		---
-					<span class="caption text-muted">test</span>
-                    		
-                    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/assets-page/.." 
-                    		alt="Joane Denise's Makeup Gigs">
-                    	---
-                    	
-                    	<p>Everybody has to start with something.
+                		<p>Everybody has to start with something.
                     	So, I wanted to share the first gigs I've done in the Makeup Artistry World. 
                     	</p>
                     	
-                    	<h2 class="section-heading">Dora Vera</h2>
-                    <p>I wanted to recognize the Makeup Artists who mentored and helped me start my 
+                    <h2 class="section-heading">Queen of Soul Pageant</h2>
+                    <p>Queen of Soul is a yearly Beauty Pageant held during the San Antonio Fiesta Season.
+                    From their Facebook page: <i>The purpose of San Antonio Queen of Soul, Incorporated is to develop 
+                    and promote female representation of African-American descent in 
+                    the City of San Antonio and surrounding areas</i></p>
+                    <p>This is officially my first gig as a Makeup Artist. Jasmine of Pure Glam Academy asked me to assist 
+                    on doing makeup for the girls. I was surprised how it all works. You setup and then 
+                    the girls will just sit there with their ready-for-makeup game face on. It's like, boom boom boom.</p>
+                    <p>We are just staying at the backstage, and getting ready 
+                    for powder or retouch for the next segment (e.g. Talent, Sportswear, Evening Wear, etc...). And you know 
+                    I love pageants! So I enjoyed every bit of the process.</p>
+                    <p>Finally after Q&A we got to rest and enjoy the show a bit.</p>
+                    
+                    
+                    <p>The sweetest thing that could ever happen to me during that moment is that my girl Malia took home the crown
+                    that night. </p>
+                    	
+                    <h2 class="section-heading">Dora Vera</h2>
+                    <p>I want to recognize the Makeup Artists who mentored and helped me start my 
                     career as a Makeup Artist. I am very grateful for meeting Dora Vera, 
                     San Antonio Makeup Artist and owner of The Look Hair and Makeup Studio. 
                     Dora dragged me along to her gigs 
-                    and taught me the basics of running (or being) in an assembly line. I see a lot 
-                    of experience running along her veins and I am very glad to be working and learning
-                    alongside her.
+                    and taught me the basics of running (or being in) an assembly line. I see a lot 
+                    of experience running through her veins and I am very glad to learn 
+                    some from her.
                     </p>
-                    
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-w.dora.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
                     <h2 class="section-heading">Bevello Fashion Show</h2>
                     <p>I am very nervous going into this Fashion Show because it is
-                    truly my first-time to work behind the runway. </p>
-                    
-                    
-                    	
+                    another first-time to work behind the runway. I am clueless whether to show 
+                    that "hey I'm here and I know what I'm doing" or just chill and go on with it or just plainly faint in there. 
+                    The support I got from Dora and the models were phenomenal, those times. </p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-girl1-3.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">She's so bubbly and nice! She even helped me on the contouring.</span>
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-girl2-1.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">Here is my Muse. I remember that she reminded me nicely to add Mascara.</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-girl3.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">Beautiful Face! Her brows are amazing.</span>
+                    <p>I met beautiful people from the other side of the Professional World.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-frickspicks.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">@frickspicks and the realgoldengirl.com</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-w.domhand.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">Here's Dom's magical hands at work. He did all the girls' hair!</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/bevello-setup.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">The Runway Setup</span>
                     	<p>I learned something crucial here - First Impressions Matter. 
                     	This industry is a little judgy (for lack of a better term).
                     	Which makes sense, because for example would you allow a "Threader" to thread your brows when he/she 
                     	has very un-groomed or decently shaped brows? 
                     	It's not enough that you show your clients that you clean your makeup tools every time. Before you even go 
-                    	there, be sure that you are clean-looking and presentable./p> 
+                    	there, be sure that you are clean-looking and presentable.</p> 
+                    	<h2 class="section-heading">Chloe Rose Boutique</h2>
+                    <p>Here, I am became part of the Glam Squad for Chloe Rose Boutique's Seasonal Catalog.</p>
                     	
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/chloerose-kim.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<span class="caption text-muted">The only picture I was able to take.</span>
+                    	<p>We spent the whole day doing makeup of girls for their catalogue pictorials. 
+                    Our photographer, Leah of @EverAfterByLeah, was very kind enough to share us 
+                    the final photos.</p>
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/chloerose-1.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/chloerose-2.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/gigs/chloerose-3.jpg" 
+                    		alt="Joane Denise's Makeup Gigs">
                     	
                     	From the makeup workshops i noted down the steps on getting the whole makeup done.
                     	
