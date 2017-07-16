@@ -155,7 +155,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/pure-glam.jsp'">
                     <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/pure-glam.jpg" alt="">
                         <div class="portfolio-box-caption">
@@ -183,7 +183,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='https://www.linkedin.com/in/joanesaulon'">
                     <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/it-profile.jpg" alt="">
                         <div class="portfolio-box-caption">

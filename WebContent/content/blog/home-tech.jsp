@@ -62,7 +62,7 @@
     <div class="container">
     		<div class="row">
     			<p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
-    				but I think I am one. Thankfully, majority of the society today think that geeks and nerds are now the 
+    				but I think I am one. Thankfully, majority of the society today think that geeks are now the 
     				"new cool", so I think I'm on the right track here.</p>
     		</div>
         <div class="row">
@@ -72,11 +72,25 @@
                         <h2 class="post-title">Saying Goodbye to Wordpress</h2>
                     </a>
                     <p>The truth is, I was hooked because I was very interested on the Technology around the blogging world - 
-                    how it all works, from the frontend up to the backend. 
-						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-goodbye-wordpress.jsp">
-							Read More...
+                    how it all works, from the frontend up to the backend... 
+						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-15-goodbye-wordpress.jsp">
+							Read More.
 						</a>
                     <p class="post-meta">Posted by Joane Denise on July 15, 2017</p>
+                </div>
+                <hr>
+            </div>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-preview">
+                    <a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
+                        <h2 class="post-title">The Photoshop Challenge</h2>
+                    </a>
+                    <p>You know when you're building an application, or just a simple website, it's not enough that you know how 
+				to code it. If you want to see an "artful" look... 
+						<a href="${pageContext.request.contextPath}/content/blog/tech/2017-07-13-photoshop-challenge.jsp">
+							Read More.
+						</a>
+                    <p class="post-meta">Posted by Joane Denise on July 13, 2017</p>
                 </div>
                 <!--hr-->
             </div>

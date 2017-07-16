@@ -53,7 +53,6 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h2 class="subheading">Roque Cozzette's</h2>
                         <h1>Airbrush Makeup Workshop</h1>
                         <span class="meta">Makeup Forever Academy, New York <br/> May 31 - June 2, 2017</span>
                     </div>
@@ -262,7 +261,7 @@
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>
             	<a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 
-            		role="button" title="Click to return on the top page" data-toggle="tooltip" 
+            		role="button" title="Back to Home" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>
         </div>
     </article>
