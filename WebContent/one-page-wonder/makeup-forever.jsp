@@ -72,7 +72,7 @@
                 	    pouring out wild emotional content and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
                 	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
                 	    </p>
-                    
+                	  
                     <h2 class="section-heading">Makeup Forever Academy</h2>
                     <p>I stood in front of the Makeup Forever Academy Building door, a little unfamiliar but giddy. 
                     It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
@@ -82,7 +82,7 @@
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>The pieces of artwork and photographs laid across the hallway made the short walk to the Elevator 
                     a little enchanting, as if
-                    unicorns and stars and sunshine came in alive. Okey I know I know, I will stop the emotions.
+                    unicorns and stars and sunshine came in the room so alive. Okey I know I know, I will stop the emotions.
                     Makeup Forever Academy is at the 3rd Floor of the Building.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/lobby.jpg" 
@@ -97,39 +97,43 @@
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>There are I think 4 workshop rooms in there. I haven't been to the other areas, but 
                     the one where we are in are very conducive for makeup learning. The lights are awesome, 
-                    the workstations are very well separated. There are Makeup Forever products everywhere! 
-                    And they are free to use (for learning of course :D).</p>
+                    the workstations are very well separated. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/makeup-chairs.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>And I long to have those Makeup Chairs! We use the same chairs for class and for the hands-on. 
                     There are plenty.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/mufe-all-over.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>There are Makeup Forever products everywhere! 
+                    And they are free to use (for learning of course :D).</p>
                     
-                    <h2 class="section-heading">The Roque Cozzette</h2>
+                    <h2 class="section-heading">Roque Cozzette</h2>
                     <p>On our first day we were introduced to Roque Cozzette, 
                     world-renowned Makeup Artist, and owner of Cozzette Beauty. 
                     I never imagined that I'd be this close to a Celebrity Makeup Artist and/or a Celebrity. 
                     Roque (pronounced as "Rowkey") is not just a Makeup Artist, he is everything else!
                     He's a photographer, painter, web designer, etc. The most surprising thing I experienced in his class 
                     is his motivational and inspirational messages. What I learned from this class is more than just
-                    Airbrush Makeup. For example, a few things that sticked.</p>
+                    Airbrush Makeup. To top it all, he's also funny and so light-hearted.
+                    For example, a few things that sticked.</p>
                     <blockquote>Surround yourself with "good vibes". Just block negativity out of your way. 
                     Believe in yourself, learn from your mistakes and move on. (on haters and unsatisfied clients)</blockquote>
                     <blockquote>Find your purpose as a Makeup Artist. And the purpose I suggest for you is to 
                     just get paid. There is value in what you do.</blockquote>
                     <p>Since this is not really the main industry I am in and that this is just a 
-                    hobby, I often de-value what I do and offer free makeup services a lot. Roque asked me to stop.
-                    I know that it's just </p>
+                    hobby, I often de-value what I do and offer free makeup services a lot. Roque asked me to stop. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day1-demo.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>Every day is demo day. Here, he demo'ed the basics of airbrush. 
-                    It's my first time to see an actual air-brush.</p>
+                    It was my first time to see an actual air-brush, can you imagine how I felt to see it in action.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    I was so curious how it would look like up-close. My main questions were - will it look cakey? Does it feel heavy? 
-                    Apparently it isn't.
+                    <p>I was so curious how it would look like up-close. My main questions were - will it look cakey? Does it feel heavy? 
+                    Apparently it isn't.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day1-beauty-closeup.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -138,40 +142,87 @@
                     going through the process of "Neutralize and Even out".</p>
                     <p>Neutralization is very related to Color Theory. You have to target the spots first that 
                     require color correction. The same concept that we use for the traditional makeup totally applies to 
-                    Airbrush as well. 
+                    Airbrush as well. </p>
+                    
+                    <h2 class="section-heading">The Tools</h2>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/kett-jett.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>I was introduced to Kett Cosmetics, Cozzette Brushes and the Kett Jett.
+                    I was under the impression that airbrush compressors are big and all. 
+                    The Ket Jett is small and decent size. It's something I could carry on-the-go.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/cozzette-and-kett.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>Oh my those Cozzette Brushes, I am in-love with them! There are plenty of things I realized in this workshop.
+                    And one of them is about the tools I use and how I fall right away for those commercial ones.
+                    For example, I bought some MAC brushes because I heard good reviews, but when I got mine,
+                    it's not as brilliant as what I was expecting. I should be better at not falling prey to 
+                    Sephora / MAC sales tactics. I should probably lean on those tools that are made by artists, not those tools
+                    that are endorsed by celebrities or something. The Cozzette brushes are like babies to Roque. 
+                    I love how they're made, and the bristles are not a disappointment.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/the-brush-cleaner.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>Finally Roque introduced to us a new way of cleaning the makeup brushes and making them ready for
+                    use immediately. It's the next to automation that I can imagine for cleaning brushes. I think I spent 
+                    more time cleaning brushes than performing makeup on clients haha! Brush cleaning is already 
+                    part of our lives as a Makeup Artist. And this StylPro gadget is something that could help us out.</p>
+                    
+                    <h2 class="section-heading">Face Chart</h2>
+                    <p>Something I learned from my Pure Glam training is about utilizing a Face Chart for "planning purposes" 
+                    or plainly to plan your looks (for example, for a photo shoot or a fashion show).
+                    I had fun actually on those exercises, you remember those times when the coloring book became a hit for adults?
+                    Face Charts became my coloring book and the makeup kits became my crayolas.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-wip.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>Airbrushing a Face Chart is definitely #goals!</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-more-wip.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    	<p>I know it is hard, because just those "dot and dash" exercises we had were a challenge for first-timers 
+                    	like me. But Roque here just made it look so easy.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-details.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>You can always go to the brush for those details.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-final.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    		<span class="caption text-muted">Final Product</span>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-me.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    		<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                    		
+                    <h2 class="section-heading">Beauty Makeup</h2>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-day2-closer.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>After this course I realized that I wanted to concentrate on Beauty Makeup.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-on-eye.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>The whole time Roque is demo-ing and instructing, I am not sure if I am 
+                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement, 
+                    especially that time when he applied eye shadow via Airbrush!</p>
                     
                     
-                    <p>So here are what we talked about on our first day.</p>
-                    <ul>
-                    		<li>Why Airbrush?</li>
-                    		<li>Color Theory</li>
-                    		<li>Applying: Dot & Dash</li>
-                    		<li>Cleaning</li>
-                    		<li>Airbrushing the Face Chart</li>
-                    </ul>
                     
-                    The whole time Roque is demo-ing and instructing, I am not sure if I am 
-                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement.
-                    <p>There are very good learning materials that came in with the Workshop. I'm sure it's all on
-                    the internet. However, hearing it from the master and seeing him in action really makes a 
-                    lot of difference in the learning process.</p>
+                    <h2 class="section-heading">Tattoo Removal</h2>
                     
-                    demo
+                    
+                    
+                    
                     
 
-                    <blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-                    <h2 class="section-heading">Reaching for the Stars</h2>
-
-                    <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-                    <a href="#">
-                        <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
-                    </a>
-                    <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-					
-					<h2 class="section-heading">Next Steps</h2>
-					<p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
+                    
+                   	<h2 class="section-heading">Next Steps</h2>
+					<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/me-and-roque.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
 					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
 					feeling a little out of place with questions of what is this IT consultant doing here,
@@ -188,6 +239,31 @@
             		data-placement="left">Home</span></a>
         </div>
     </article>
+    <br/><br/>
+    
+    <!-- COMMENTS SECTION START -->
+    <div id="disqus_thread" class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    </div>
+		<script>
+
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			
+			/*var disqus_config = function () {
+				this.page.url = '${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp';  // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = 'Makeup-Forever'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://joanedenise.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+		</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+    <!-- COMMENTS SECTION END -->
 
      <footer>
         <div class="container">
@@ -207,6 +283,9 @@
 
     <!-- Theme JavaScript -->
     <script src="${pageContext.request.contextPath}/assets-post/js/clean-blog.js"></script>
+    
+    <!-- Disqus -->
+	<script id="dsq-count-scr" src="//joanedenise.disqus.com/count.js" async></script>
 
 </body>
 
