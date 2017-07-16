@@ -66,12 +66,57 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                	<p>You know, I'm a late bloomer when it comes to makeup. I know it exists, my </p>
-                	    <h2 class="section-heading">  y</h2>
+                	<p>I've always wanted to get a formal education about Makeup Artistry.
+                	But it's been foregone due to either I don't have the funds or I just 
+                	couldn't skip work. <i>I have to work, you know. I need to fund my makeup addiction.</i></p>
+                	    <h2 class="section-heading">Pure Glam Makeup Academy</h2>
+                	    <p>Finally Pure Glam Makeup Academy came into my life! It is the only one 
+                	    (based from google) that gives Night Classes! 
+                	    
+                	    pic
+                	    
+                	    <p>I was introduced to Jasmine Brock,
+                	    owner of Pure Glam and my very first Makeup Mentor.
+                	    Jasmine is so fun to work with! She is passionate about teaching and I 
+                	    could see that on how she passes on her knowledge to us her students.</p>
+                	    
+                	    
+                	    <p>This workshop has jumpstarted my "career" as a Makeup Artist. The course outline
+                	    is intensive, covers all the basics and advanced techniques of Makeup Artistry
+                	    that you'll use for your potential clients. I love that the first thing we learned is
+                	    about cleanliness and how to keep your tools hygienic for your clients. 
+                	    I'm a neat freak and it's very important to me.</p>
+                	    
+                	    
+                	    <p>When you enroll to the workshop it's an all-in deal. Forgive me for sounding like 
+                	    a beginner here but I love that it comes with all the tools that you need to start your career:
+                	    Your Makeup Case, Foundation Palette, Eyeshadow Palettes, Lip Palettes, Blush and Contour Palette,
+                	    your first set of Brushes, and a whole lot more.</p>
+                	    
+                	    <p>To be honest I didn't know any other brands aside from the brands that are on the shelves of 
+                	    Sephora and Ulta (and MAC of course). I never got out of that bounds. This workshop introduced me
+                	    to BH Cosmetics, the sponsor for the course. Up to this day I am still using it, I ran out of
+                	    some though, but the brushes are still intact.</p>
+                	    
+                	    
+                	    <p>During Special Effects Course, I learned about Mehron and Ben Nye, which turned out to be
+                	    big suppliers for Special Effects makeup kits.</p>
+                	    
+                	    <h2 class="section-heading">Snapshots</h2>
+                	    
+                	    <p>I wasn't as picture-conscious during the class nights so I wasn't able to get some shots
+                	    except for the last sessions. </p>
+                	    
+                	    <p>It's so nice that there are models whom we could apply our learnings on all the time!
+                	    The models are diverse as well, we are trained on applying the correct 
+                	    foundation or colors on different skin tones.</p>
+                	    
+                	    
                 	    <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/hallway.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                    		
                     		
                 	    
                 </div>
