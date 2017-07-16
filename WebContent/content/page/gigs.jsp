@@ -48,12 +48,12 @@
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" 
-    		style="background-image: url('${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/primary.jpg')">
+    		style="background-image: url('${pageContext.request.contextPath}/assets-page/img/gigs/primary.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Makeup Gigs and Fashion Shows</h1>
+                        <h1>Beginnings</h1>
                         <span class="meta">San Antonio, Texas</span>
                     </div>
                 </div>
@@ -218,7 +218,7 @@
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/gigs/senior-lily.jpg" 
                     		alt="Joane Denise's Makeup Gigs">
-                    <span class="caption text-muted">End Product</span>
+                    <span class="caption text-muted">Another angle</span>
                     
                 </div>
             </div>
