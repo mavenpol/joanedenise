@@ -117,7 +117,7 @@
                     He's a photographer, painter, web designer, etc. The most surprising thing I experienced in his class 
                     is his motivational and inspirational messages. What I learned from this class is more than just
                     Airbrush Makeup. To top it all, he's also funny and so light-hearted.
-                    For example, a few things that sticked.</p>
+                    Some things that sticked.</p>
                     <blockquote>Surround yourself with "good vibes". Just block negativity out of your way. 
                     Believe in yourself, learn from your mistakes and move on. (on haters and unsatisfied clients)</blockquote>
                     <blockquote>Find your purpose as a Makeup Artist. And the purpose I suggest for you is to 
@@ -160,7 +160,9 @@
                     it's not as brilliant as what I was expecting. I should be better at not falling prey to 
                     Sephora / MAC sales tactics. I should probably lean on those tools that are made by artists, not those tools
                     that are endorsed by celebrities or something. The Cozzette brushes are like babies to Roque. 
-                    I love how they're made, and the bristles are not a disappointment.</p>
+                    I love how they're made, and the bristles are not a disappointment. And I won't forget about the 
+                    cute "Brush Vessels" that you see here, don't you want to sort out your brushes into different containers and
+                    color-code them? I would!</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/the-brush-cleaner.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -194,7 +196,7 @@
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/face-chart-me.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    		<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                    	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
                     		
                     <h2 class="section-heading">Beauty Makeup</h2>
                     <img class="img-responsive" 
@@ -205,17 +207,42 @@
                    		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/roque-on-eye.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>The whole time Roque is demo-ing and instructing, I am not sure if I am 
-                    really absorbing everything. I was sitting there watching him work and just in awe-ing in amazement, 
+                    really absorbing everything. I was sitting there watching him work and just awe-ing in amazement, 
                     especially that time when he applied eye shadow via Airbrush!</p>
+                    	<p>The final product is obviously a perfection.</p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-beauty-look.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-beauty-intense.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    	<p>Our model is werking it! The moment the brushes are down and our cameras start to click, she just 
+                    	poses from all directions.</p>
+                    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day2-working-it.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <span class="caption text-muted">Work work work work!</span>
+                    
+                    <h2 class="section-heading">Tattoo Coverage</h2>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day3-tat-demo-before.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <span class="caption text-muted">Before</span>
+                    <p>The last day, we were taught how to cover a tattoo or some body art that for example, 
+                    a Fashion show don't want to show. </p>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/day3-tat-demo-after.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <span class="caption text-muted">After applying Airbrush Magic</span>
                     
                     
-                    
-                    <h2 class="section-heading">Tattoo Removal</h2>
-                    
-                    
-                    
-                    
-                    
+                    <h2 class="section-heading">Shout out to my Girls</h2>
+                    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/me-and-the-girls.jpg" 
+                    		alt="Joane Denise's Makeup Forever Academy Adventures">
+                    <span class="caption text-muted">Introducing my gorgeous classmates:
+                    Alma, Me and Gabriela (I wish I had a picture of Veronica, a
+					resident of MUFE Academy, who were with us all this time!)</span>					
 
                     
                    	<h2 class="section-heading">Next Steps</h2>
@@ -225,9 +252,9 @@
                     <p>I am completely aware that attending a Workshop or Training won't make me the best out there. 
 					Apart from Talent - Practice, Persistence and Experience are really what makes Makeup Artists better, I think. 
 					And I know I'm not there yet. On the first day of the workshop after introducing myself to the class, 
-					feeling a little out of place with questions of what is this IT consultant doing here,
+					feeling a little out of place with questions of what is this IT person doing here,
 					Roque told me - "Don't you call yourself a Beginner nor second-doubt yourself anymore. 
-					From now on, you are a Makeup Artist, you should own it." Sure I will! </p>
+					From now on, you are a Makeup Artist, you should own it." Yessir! </p>
                 </div>
             </div>
             <!--  Back to Top and Navigation to Home -->
