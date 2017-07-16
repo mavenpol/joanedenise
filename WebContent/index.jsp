@@ -138,9 +138,9 @@
     <section class="no-padding" id="gallery">
         <div class="container-fluid">
         		<!-- JD: Add onClick to the div as hack to bootstrap popup-gallery -->
-            <div class="row no-gutter popup-gallery" onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp'">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" target="_self" class="portfolio-box">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6"  onClick="location.reload();location.href='${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp'">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/airbrush.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -156,7 +156,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/pure-glam.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -172,7 +172,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/gigs.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -184,7 +184,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/it-profile.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -196,7 +196,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/tech-blog.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -208,7 +208,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="#">
+                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/travels.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
