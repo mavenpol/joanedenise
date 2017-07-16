@@ -73,12 +73,19 @@
                 	    <p>Finally Pure Glam Makeup Academy came into my life! It is the only one 
                 	    (based from google) that gives Night Classes! 
                 	    
-                	    pic
-                	    
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/me-and-jasmine.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    	<span class="caption text-muted">This was taken at the of Queen of Soul Pageant in San Antonio</span>
+                    	
                 	    <p>I was introduced to Jasmine Brock,
-                	    owner of Pure Glam and my very first Makeup Mentor.
-                	    Jasmine is so fun to work with! She is passionate about teaching and I 
-                	    could see that on how she passes on her knowledge to us her students.</p>
+                	    owner of Pure Glam Makeup Academy and my very first Makeup Mentor.
+                	    Jasmine's expertise is unquestionable. As always, I was amazed 
+                	    whenever she does her demo'es (and I always wished I'd reach that level).
+                	    She is passionate about teaching and I 
+                	    could see that on how she passes on her knowledge to us her students.
+                	    Aside from that, she is so fun to work with! I was always looking 
+                	    forward for the next day. </p>
                 	    
                 	    
                 	    <p>This workshop has jumpstarted my "career" as a Makeup Artist. The course outline
@@ -87,7 +94,10 @@
                 	    about cleanliness and how to keep your tools hygienic for your clients. 
                 	    I'm a neat freak and it's very important to me.</p>
                 	    
-                	    
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/tools-bh.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    	
                 	    <p>When you enroll to the workshop it's an all-in deal. Forgive me for sounding like 
                 	    a beginner here but I love that it comes with all the tools that you need to start your career:
                 	    Your Makeup Case, Foundation Palette, Eyeshadow Palettes, Lip Palettes, Blush and Contour Palette,
@@ -98,25 +108,54 @@
                 	    to BH Cosmetics, the sponsor for the course. Up to this day I am still using it, I ran out of
                 	    some though, but the brushes are still intact.</p>
                 	    
-                	    
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/tools-sfx.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    	
                 	    <p>During Special Effects Course, I learned about Mehron and Ben Nye, which turned out to be
                 	    big suppliers for Special Effects makeup kits.</p>
                 	    
                 	    <h2 class="section-heading">Snapshots</h2>
                 	    
-                	    <p>I wasn't as picture-conscious during the class nights so I wasn't able to get some shots
-                	    except for the last sessions. </p>
+                	    <p>I wasn't as picture-conscious during the class nights so I wasn't able to get a lot of shots,
+                	    except for the last sessions. Some of the work I missed shooting are my No-Makeup Look, 
+                	    Light-Natural Look (kind-of a favorite), Pin-Up, Cat-Eye (that was a hard one for me, takes practice).
+                	    Here are some of the stuff I got to capture.
+                	    </p>
                 	    
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/colored-smokey.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    	<p>I know I could have done a little better on the Colored-Smokey department but 
+                    	I think I'm quite proud of the brows I did here. This workshop (not the internet) 
+                    	taught me first that the brows shouldn't be ignored when doing makeup. I had been taking my time on brows
+                    	that sometimes it slowed me down, but again, takes a lot of practice to master it.</p>
+                    	
                 	    <p>It's so nice that there are models whom we could apply our learnings on all the time!
                 	    The models are diverse as well, we are trained on applying the correct 
                 	    foundation or colors on different skin tones.</p>
                 	    
+                	    <img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/avante-garde-1.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                	    
+                	    <p>There are times when Jasmine has to take over on the modeling department when 
+                	    the models couldn't make it. Here is my final Avante Garde look.</p>
                 	    
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/makeup-forever/hallway.jpg" 
-                    		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/avante-garde-2.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                     		
+                    	<p>Here's the other side. I thought that you could go crazy with Avante Garde but not literally.
+                    	You could go crazy as long as you are following a sort-of process. You can't just put paint
+                    	on the model and hope that it would come out as some sort of an abstract art. Well, at least
+                    	for me - I have to slow down on the color application and just build up.</p>
+                	    	
+                	    	<img class="img-responsive" 
+                   		src="${pageContext.request.contextPath}/content/img/one-page-wonder/pure-glam/sfx-bruise.jpg" 
+                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
+                    		
+                    	<p></p>
                     		
                 	    
                 </div>
