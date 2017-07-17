@@ -15,8 +15,8 @@
     <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS --> 
-    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
-    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">   
+    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet"> 
+    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">  
 
     <!-- Custom Fonts -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -48,12 +48,32 @@
         <!-- /.container -->
     </nav>
     
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/assets-page/img/tech-blog-home.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>Tech Blog</h1>
+                        <hr class="small">
+                        <span class="subheading">here is where I whine about my code and other things around it.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <div class="container">
+    		<div class="row">
+    			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                
 
-	I know I have some blog entries for each of these but as I've said in my boring technical blog,
+	<p>I know I have some blog entries for each of these but as I've said in my boring technical blog,
 	I'm migrating everything manually so it's going to take a little bit of time.
-	Let me just dump them all here anyway.
+	Let me just dump them all here anyway.</p>
 	
-	Each picture represents an awesome memory. 
+	<p>Each picture represents an awesome memory. </p>
 	
 	
     <section class="no-padding" id="portfolio">
@@ -153,7 +173,9 @@
         </div>
     </section>
 	
-
+</div>
+</div>
+</div>
 
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
        <!--  Back to Top and Navigation to Home -->
