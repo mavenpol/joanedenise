@@ -12,15 +12,21 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Theme CSS -->
-    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">    
-    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
+    <!-- Theme CSS --> 
+    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet"> 
+    <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">  
 
     <!-- Custom Fonts -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -49,30 +55,28 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Travels & Adventures</h1>
+                        <h1>Travels and Adventures</h1>
                         <hr class="small">
-                        <span class="subheading">amazing world out there</span>
+                        <span class="subheading">it's an amazing world</span>
                     </div>
                 </div>
             </div>
         </div>
     </header>
     
-    <!-- Main Content Start -->
     <div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				<p>I know I have some blog entries for each of these but as I've said in my boring technical blog,
-				I'm migrating everything manually so it's going to take a little bit of time.
-				Let me just dump them all here anyway.</p>
-				
-				<p>Each picture represents an awesome memory. </p>
-			</div>
-		</div>
-	</div>
+                
+
+	<p>I know I have some blog entries for each of these but as I've said in my boring technical blog,
+	I'm migrating everything manually so it's going to take a little bit of time.
+	Let me just dump them all here anyway.</p>
 	
-	<!-- Gallery Start -->
-	<section class="no-padding" id="portfolio">
+	<p>Each picture represents an awesome memory. </p>
+	
+	
+    <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
@@ -168,10 +172,12 @@
             </div>
         </div>
     </section>
-	<!-- Gallery End -->
-    
-	<!-- Main Content End -->
-
+	
+</div>
+</div>
+</div>
+<br/>
+<br/>
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
        <!--  Back to Top and Navigation to Home -->
        <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
@@ -202,6 +208,19 @@
 
     <!-- Theme JavaScript -->
     <script src="${pageContext.request.contextPath}/assets-blog/js/clean-blog.js"></script>
+    
+    <!-- Bootstrap core JavaScript -->
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/jquery/jquery.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/tether/tether.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="${pageContext.request.contextPath}/assets-home/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="${pageContext.request.contextPath}/assets-home/js/creative.js"></script>
     
 </body>
 </html>

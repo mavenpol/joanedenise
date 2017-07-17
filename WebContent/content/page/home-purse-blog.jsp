@@ -42,7 +42,21 @@
         <!-- /.container -->
     </nav>
     
-
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/assets-page/img/primary-purse-blog.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>My Purse Blog</h1>
+                        <hr class="small">
+                        <span class="subheading">i don't know how i got to this place. but here i am anyway.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 	blog content here
 
 
@@ -51,7 +65,7 @@
        <a id="back-to-top" href="#" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Top</span></a>
-       <a id="back-to-top" href="${pageContext.request.contextPath}/page/home-lifestyle.jsp" class="btn btn-primary btn-xs back-to-top" 
+       <a id="back-to-top" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp" class="btn btn-primary btn-xs back-to-top" 
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Back to Lifestyle Home</span></a>
        <a id="back-to-top" href="${pageContext.request.contextPath}/index.jsp" class="btn btn-primary btn-xs back-to-top" 

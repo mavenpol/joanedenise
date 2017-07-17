@@ -44,7 +44,7 @@
     
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/assets-page/img/tech-blog-home.jpg')">
+    <header class="intro-header" style="background-image: url('${pageContext.request.contextPath}/assets-page/img/primary-lifestyle.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -66,7 +66,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
                         <h3>Travels</h3>
-                        <!--p class="text-muted">-->
+                        <p class="text-muted">it's a small world out there</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center" 
@@ -74,13 +74,15 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-shopping-bag text-primary sr-icons"></i>
                         <h3>My Purse Blog</h3>
+                        <p class="text-muted">lots of baby pictures</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 text-center" 
-                		onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-everything-else.jsp'">
+                <div class="col-lg-4 col-md-4 text-center"> 
+                		<!--onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-everything-else.jsp'"-->
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
                         <h3>Everything Else</h3>
+                        <p class="text-muted">this part is a work-in-progress</p>
                     </div>
                 </div>
             </div>
