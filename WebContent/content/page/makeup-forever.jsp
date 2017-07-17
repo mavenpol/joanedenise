@@ -14,8 +14,8 @@
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Theme CSS -->
-    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">    
+    <!-- Theme CSS --> 
+    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">   
     <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
