@@ -86,7 +86,7 @@
     <header class="masthead">
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Software Developer</h1>
+                <h1 id="homeHeading">IT Consultant</h1>
                 and<br/>
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>

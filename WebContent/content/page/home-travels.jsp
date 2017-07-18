@@ -12,22 +12,17 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Theme CSS -->
-    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">    
+    <!-- Theme CSS -->    
+    <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/assets-blog/css/clean-blog.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    
 </head>
 <body>
 
@@ -62,26 +57,27 @@
     <div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				<p>I know I have some blog entries for each of these but as I've said in my boring technical blog,
-				I'm migrating everything manually so it's going to take a little bit of time.
+				<p>I know I have some blog entries for each of these but as I've said in my boring tech blog,
+				I'm migrating everything manually so it's going to take a little bit of time.</p>
+				
+				<p>Actually, I just thought that these may be enough. My travel blog from 
+				my previous sites are kinda not informational or something, it might not 
+				be as helpful as the awesome travel blogs that you can google.
 				Let me just dump them all here anyway.</p>
 				
-				<p>Each picture represents an awesome memory. </p>
+				<p>Each picture represents an awesome memory.</p>
 			</div>
 		</div>
 	</div>
 	
-	<div class="container">
-    		<div class="row">
-    			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				
-	<!-- Gallery Start -->
+	<!-- Horizontal Gallery: Each Row will display 4 Photos -->
+	<!-- Gallery Start Row 1 -->
 	<section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/1.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/1.jpg" alt="">
+                <div class="col-lg-3 col-sm-6 portfolio-box">
+                        <img class="img-fluid" 
+                        		src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/1.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -92,87 +88,10 @@
                                 </div>
                             </div>
                         </div>
-                    </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/2.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/2.jpg" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/3.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/3.jpg" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/4.jpg" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/5.jpg" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/6.jpg" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
+             </div>
         </div>
     </section>
-    </div></div></div>
 	<!-- Gallery End -->
     
 	<!-- Main Content End -->
@@ -207,6 +126,7 @@
 
     <!-- Theme JavaScript -->
     <script src="${pageContext.request.contextPath}/assets-blog/js/clean-blog.js"></script>
+
     
 </body>
 </html>
