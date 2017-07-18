@@ -70,26 +70,228 @@
 		</div>
 	</div>
 	
-	<!-- Horizontal Gallery: Each Row will display 4 Photos -->
-	<!-- Gallery Start Row 1 -->
-	<section class="no-padding" id="portfolio">
+	<!-- Real Horizontal Gallery -->
+    <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
-                <div class="col-lg-3 col-sm-6 portfolio-box">
-                        <img class="img-fluid" 
-                        		src="${pageContext.request.contextPath}/assets/img/portfolio/thumbnails/1.jpg" alt="">
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/1.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/alaska.jpg" alt="Alaska">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    September 2015
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Alaska
                                 </div>
                             </div>
                         </div>
                 </div>
-             </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/2.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/lake-tahoe.jpg" alt="Lake Tahoe">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Christmas of 2016
+                                </div>
+                                <div class="project-name">
+                                    Vikingsholm, Lake Tahoe
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/3.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-fuji.jpg" alt="Mt. Fuji Climb">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    August 2007<br/>
+                                    My One and Only Mountain Climb
+                                </div>
+                                <div class="project-name">
+                                	   The Fuji Adventure, Japan
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/caesars-palace-2015.jpg" alt="Caesar's Palace">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                		July 2015: The Mariah Carey Trip
+                                </div>
+                                <div class="project-name">                                    
+                                		Caesar's Palace, Las Vegas
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/austin.jpg" alt="Austin">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    October 2016: F1 and Taylor Swift Concert
+                                </div>
+                                <div class="project-name">
+                                		Circuit of the Americas, Austin
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/caesars-palace-2016.jpg" alt="Caesar's Palace">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    September 2016
+                                </div>
+                                <div class="project-name">
+                                    Nobu, Caesar's Palace, Las Vegas
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/new-york-2017.jpg" alt="New York">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                		June 2017: The Makeup Forever Academy Trip
+                                </div>
+                                <div class="project-name">                                    
+                                		Grand Central, New York
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-tokyo.jpg" alt="Tokyo, Japan">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Sometime in 2007
+                                </div>
+                                <div class="project-name">
+                                		Tokyo, Japan
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/pinas-camsur.jpg" alt="Camarines Sur">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Sometime in 2008<br/>(that time when I was still hot)
+                                </div>
+                                <div class="project-name">
+                                    Camarines Sur, Philippines
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	<!-- End Real -->
+	
+	<!-- Horizontal Gallery: Each Row will display 4 Photos 
+	<!-- Gallery Start Row 1 & 2 --
+	<section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <a class="portfolio-box"><div class="col-lg-3 col-sm-6">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/alaska.jpg" alt="Alaska">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">Alaska</div>
+	                			<div class="project-category text-faded">September 2015</div>
+	                		</div>
+	                	</div>
+             	</div></a>
+         	</div>
+        </div>
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/lake-tahoe.jpg" alt="Lake Tahoe">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">Vikingsholm, Lake Tahoe</div>
+	                			<div class="project-category text-faded">Christmas 2016</div>
+	                		</div>
+	                	</div>
+             	</div>
+         	</div>
+        </div>
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery portfolio-box">
+                <div class="col-lg-4 col-sm-6">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/san-antonio.jpg" alt="Alamo">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">The Alamo, San Antonio</div>
+	                			<div class="project-category text-faded">January 2013</div>
+	                		</div>
+	                	</div>
+             	</div>
+         	</div>
+        </div>
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/ceasars-palace-2015.jpg" alt="Caesar's Palace">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">Caesar's Palace, Las Vegas</div>
+	                			<div class="project-category text-faded">July 2015</div>
+	                		</div>
+	                	</div>
+             	</div>
+         	</div>
+        </div>
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/ceasars-palace-2015.jpg" alt="Caesar's Palace">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">Caesar's Palace, Las Vegas</div>
+	                			<div class="project-category text-faded">July 2015</div>
+	                		</div>
+	                	</div>
+             	</div>
+         	</div>
+        </div>
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                		<img class="img-fluid"
+                			src="${pageContext.request.contextPath}/assets-page/img/travels/h/ceasars-palace-2015.jpg" alt="Caesar's Palace">
+	                	<div class="portfolio-box-caption">
+	                		<div class="portfolio-box-caption-content">
+	                			<div class="project-name">Caesar's Palace, Las Vegas</div>
+	                			<div class="project-category text-faded">July 2015</div>
+	                		</div>
+	                	</div>
+             	</div>
+         	</div>
         </div>
     </section>
 	<!-- Gallery End -->
