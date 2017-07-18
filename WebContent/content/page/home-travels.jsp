@@ -118,6 +118,90 @@
                         </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
+                   <img class="img-fluid" 
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/pinas-coron.jpg" alt="Coron, Philippines">
+                   <div class="portfolio-box-caption">
+                      <div class="portfolio-box-caption-content">
+                           <div class="project-category text-faded">
+                                 February 2012
+                           </div>
+            		           <div class="project-name">
+                                 Coron, Philippines
+                		       </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                   <img class="img-fluid" 
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/seattle.jpg" alt="Seattle">
+                   <div class="portfolio-box-caption">
+                      <div class="portfolio-box-caption-content">
+                           <div class="project-category text-faded">
+                                 October 2013
+                           </div>
+            		           <div class="project-name">
+                                 Seattle
+                		       </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                   <img class="img-fluid" 
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/washington-dc.jpg" alt="Washington, DC">
+                   <div class="portfolio-box-caption">
+                      <div class="portfolio-box-caption-content">
+                           <div class="project-category text-faded">
+                                 May 2016
+                           </div>
+            		           <div class="project-name">
+                                 Washington, DC
+                		       </div>
+                      </div>
+                   </div>
+                </div>
+                                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/arkansas.jpg" alt="Arkansas">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                		February 2013 <br/>That trip for our first Car
+                                </div>
+                                <div class="project-name">                                    
+                                		Hot Springs, Arkansas
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/grand-canyon-2013.jpg" alt="Grand Canyon">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    June 2013
+                                </div>
+                                <div class="project-name">
+                                		Grand Canyon, Arizona
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                   <img class="img-fluid" 
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/hoover-dam-2014.jpg" alt="Hoover Dam">
+                   <div class="portfolio-box-caption">
+                      <div class="portfolio-box-caption-content">
+                           <div class="project-category text-faded">
+                                 February 2014
+                           </div>
+            		           <div class="project-name">
+                                 The Famous Hoover Dam
+                		       </div>
+                      </div>
+                   </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/caesars-palace-2015.jpg" alt="Caesar's Palace">
                         <div class="portfolio-box-caption">
