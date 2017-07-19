@@ -46,7 +46,7 @@
                     <div class="site-heading">
                         <h1>Travels & Adventures</h1>
                         <hr class="small">
-                        <span class="subheading">amazing world out there</span>
+                        <span class="subheading">some kinda photo album</span>
                     </div>
                 </div>
             </div>
