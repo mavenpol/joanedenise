@@ -60,9 +60,9 @@
 				<p>I know I have some blog entries for each of these but as I've said in my boring tech blog,
 				I'm migrating everything manually so it's going to take a little bit of time.</p>
 				
-				<p>Actually, I just thought that these may be enough. I'm not so proud with my "Travel Blog". 
+				<p>Actually, I just thought that these may be enough. I'm not so proud of my "Travel Blog". 
 				There are more awesome blogs that you can google. I'll do better in my next trips. Stay Tuned!
-				Let me just dump them all pictures here anyway.</p>
+				Let me just dump them all past pictures here anyway.</p>
 				
 				<p>Each picture represents an awesome memory.</p>
 			</div>
@@ -75,7 +75,7 @@
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/1.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/alaska.jpg" alt="Alaska">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/alaska.jpg" alt="Alaska">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/2.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/lake-tahoe.jpg" alt="Lake Tahoe">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/lake-tahoe.jpg" alt="Lake Tahoe">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/3.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-fuji.jpg" alt="Mt. Fuji Climb">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-fuji.jpg" alt="Mt. Fuji Climb">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                    <img class="img-fluid" 
-                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/pinas-coron.jpg" alt="Coron, Philippines">
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/pinas-coron.jpg" alt="Coron, Philippines">
                    <div class="portfolio-box-caption">
                       <div class="portfolio-box-caption-content">
                            <div class="project-category text-faded">
@@ -132,7 +132,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                    <img class="img-fluid" 
-                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/seattle.jpg" alt="Seattle">
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/seattle.jpg" alt="Seattle">
                    <div class="portfolio-box-caption">
                       <div class="portfolio-box-caption-content">
                            <div class="project-category text-faded">
@@ -146,7 +146,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                    <img class="img-fluid" 
-                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/washington-dc.jpg" alt="Washington, DC">
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/washington-dc.jpg" alt="Washington, DC">
                    <div class="portfolio-box-caption">
                       <div class="portfolio-box-caption-content">
                            <div class="project-category text-faded">
@@ -160,7 +160,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/arkansas.jpg" alt="Arkansas">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/arkansas.jpg" alt="Arkansas">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -174,7 +174,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/grand-canyon-2013.jpg" alt="Grand Canyon">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/grand-canyon-2013.jpg" alt="Grand Canyon">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                    <img class="img-fluid" 
-                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/hoover-dam-2014.jpg" alt="Hoover Dam">
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/hoover-dam-2014.jpg" alt="Hoover Dam">
                    <div class="portfolio-box-caption">
                       <div class="portfolio-box-caption-content">
                            <div class="project-category text-faded">
@@ -201,7 +201,7 @@
                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/grand-canyon-2016.jpg" alt="Grand Canyon">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/grand-canyon-2016.jpg" alt="Grand Canyon">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -215,7 +215,7 @@
                         </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/hoover-dam-2016.jpg" alt="Grand Canyon">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/hoover-dam-2016.jpg" alt="Grand Canyon">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -229,7 +229,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                    <img class="img-fluid" 
-                   	src="${pageContext.request.contextPath}/assets-page/img/travels/h/six-flags.jpg" alt="Six Flags">
+                   	src="${pageContext.request.contextPath}/assets-page/img/travels/six-flags.jpg" alt="Six Flags">
                    <div class="portfolio-box-caption">
                       <div class="portfolio-box-caption-content">
                            <div class="project-category text-faded">
@@ -243,7 +243,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/caesars-palace-2015.jpg" alt="Caesar's Palace">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/caesars-palace-2015.jpg" alt="Caesar's Palace">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -257,7 +257,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/austin.jpg" alt="Austin">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/austin.jpg" alt="Austin">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -271,21 +271,22 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/caesars-palace-2016.jpg" alt="Caesar's Palace">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/caesars-palace-2016.jpg" alt="Caesar's Palace">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    September 2016
+                                    September 2016<br/>
+                                    The Chefs of Nobu
                                 </div>
                                 <div class="project-name">
-                                    Nobu, Caesar's Palace, Las Vegas
+                                    Caesar's Palace, Las Vegas
                                 </div>
                             </div>
                         </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/4.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/new-york-2017.jpg" alt="New York">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/new-york-2017.jpg" alt="New York">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -299,7 +300,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/6.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-tokyo.jpg" alt="Tokyo, Japan">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-tokyo.jpg" alt="Tokyo, Japan">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -313,7 +314,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
                     <!--a class="portfolio-box" href="${pageContext.request.contextPath}/assets/img/portfolio/fullsize/5.jpg"-->
-                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/pinas-camsur.jpg" alt="Camarines Sur">
+                        <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/pinas-camsur.jpg" alt="Camarines Sur">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -326,7 +327,7 @@
                         </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-churaumi.jpg" alt="Churaumi">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-churaumi.jpg" alt="Churaumi">
                     <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -339,7 +340,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-hakone.jpg" alt="Hakone">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-hakone.jpg" alt="Hakone">
                     <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -352,7 +353,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-office.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-office.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -363,21 +364,21 @@
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-okinawa-sushi.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-okinawa-sushi.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
-								Sometime in 2008<br />
-								Fishing in Okinawa
+								Sometime in 2008<br/>
+								That time when we ate a super freshly caught Maguro (Salmon) 
 							</div>
 							<div class="project-name">
-								Super Fresh Sushi, Okinawa, Japan
+								Okinawa, Japan
 							</div>
 						</div>
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/japan-tokyo-disneyland.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-tokyo-disneyland.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -390,7 +391,7 @@
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/nevada-red-canyon.jpg" alt="Red Canyon">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/red-canyon-nevada.jpg" alt="Red Canyon">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -404,7 +405,7 @@
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/new-york-2013.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/new-york-2013.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -417,7 +418,7 @@
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/new-york-2015.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/new-york-2015.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -430,7 +431,7 @@
 					</div>
                 </div>
                 <div class="col-lg-4 col-sm-6 portfolio-box">
-                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/h/schlitterbahn.jpg" alt="">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/schlitterbahn.jpg" alt="">
                     <div class="portfolio-box-caption">
 						<div class="portfolio-box-caption-content">
 							<div class="project-category text-faded">
@@ -438,6 +439,242 @@
 							</div>
 							<div class="project-name">
 								Schlitterbahn, San Antonio, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/aquatica.jpg" alt="">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Summer 2016
+							</div>
+							<div class="project-name">
+								Seaworld Aquatica, San Antonio, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/big-bend.jpg" alt="">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Sometime in 2014
+							</div>
+							<div class="project-name">
+								Rio Grande @ The Big Bend, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/dallas.jpg" alt="Suburbia">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Suburbia: The First Ever Music Festival I've attended
+							</div>
+							<div class="project-name">
+								Somewhere near Dallas, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/disneyland.jpg" alt="Disneyland">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								May 2014
+							</div>
+							<div class="project-name">
+								Disneyland
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/hotel-del-coronado.jpg" alt="Hotel Del Coronado">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Birthday Month 2014
+							</div>
+							<div class="project-name">
+								Hotel Del Coronado, San Diego, CA
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/houston.jpg" alt="Houston">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Sometime in 2013
+							</div>
+							<div class="project-name">
+								Real Battleship, Houston
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/japan-okinawa-beer.jpg" alt="Okinawa">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Sometime in 2008<br/>
+								My first ever Beer Festival
+							</div>
+							<div class="project-name">
+								Okinawa, Japan
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/las-vegas-2013.jpg" alt="Las Vegas 2013">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Birthday Month, 2013
+							</div>
+							<div class="project-name">
+								The Strip, Las Vegas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/las-vegas-2014.jpg" alt="Las Vegas 2014">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								February 2014<br/>
+								We just kept on coming back
+							</div>
+							<div class="project-name">
+								The Strip, Las Vegas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/magnolia-market.jpg" alt="Magnolia Market">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								2016
+							</div>
+							<div class="project-name">
+								Magnolia Market, Waco, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/rodeo-drive.jpg" alt="LA">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Summer 2014
+							</div>
+							<div class="project-name">
+								Rodeo Drive, LA
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/san-antonio.jpg" alt="Alamo">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								First Weekend in the States, January 2013
+							</div>
+							<div class="project-name">
+								The Alamo, San Antonio, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/san-francisco.jpg" alt="San Francisco">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								December 2016
+							</div>
+							<div class="project-name">
+								San Francisco, California
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/sea-world.jpg" alt="Sea World">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Summer 2015
+							</div>
+							<div class="project-name">
+								Sea World, Texas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/sta-monica.jpg" alt="Santa Monica">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								November 2015
+							</div>
+							<div class="project-name">
+								Santa Monica, LA
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/universal-studios.jpg" alt="Universal Studios">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								May 2014
+							</div>
+							<div class="project-name">
+								Universal Studios Hollywood
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/venetian-las-vegas.jpg" alt="Venetian">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								June 2013
+							</div>
+							<div class="project-name">
+								Venetian CR, Las Vegas
+							</div>
+						</div>
+					</div>
+                </div>
+                <div class="col-lg-4 col-sm-6 portfolio-box">
+                    <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/lake-tahoe-2.jpg" alt="Lake Tahoe">
+                    <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Christmas Eve, 2016
+							</div>
+							<div class="project-name">
+								Heavenly Resort, Lake Tahoe
 							</div>
 						</div>
 					</div>
