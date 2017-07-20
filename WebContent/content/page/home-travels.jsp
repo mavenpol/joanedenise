@@ -11,8 +11,8 @@
     <title>Joane Denise Travels</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Theme CSS -->    
     <link href="${pageContext.request.contextPath}/assets-home/css/creative.css" rel="stylesheet">
@@ -34,7 +34,6 @@
                 <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp">JOANE DENISE</a>
             </div>
         </div>
-        <!-- /.container -->
     </nav>
     
     <!-- Page Header -->
@@ -700,6 +699,36 @@
             		role="button" title="Click to return on the top page" data-toggle="tooltip" 
             		data-placement="left">Home</span></a>    
     </div>
+    <br/>
+    <br/>
+    <br/>
+    <!-- COMMENTS SECTION START -->
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div id="disqus_thread">
+    </div>
+		<script>
+
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			
+			/*var disqus_config = function () {
+				this.page.url = '${pageContext.request.contextPath}/one-page-wonder/makeup-forever.jsp';  // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = 'Makeup-Forever'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://joanedenise.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+		</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+    <!-- COMMENTS SECTION END -->
+    </div>
+    <br/>
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
     <footer>
         <div class="container">
             <div class="row">
@@ -709,6 +738,7 @@
             </div>
         </div>
     </footer>
+    </div>
 	
     <!-- jQuery -->
     <script src="${pageContext.request.contextPath}/assets-blog/vendor/jquery/jquery.min.js"></script>

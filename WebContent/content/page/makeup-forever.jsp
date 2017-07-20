@@ -42,8 +42,8 @@
                 <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp">JOANE DENISE</a>
             </div>
         </div>
-        <!-- /.container -->
     </nav>
+
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
