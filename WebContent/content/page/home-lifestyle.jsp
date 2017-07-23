@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 </a>
-                <a href="${pageContext.request.contextPath}/content/page/home-purse-blog.jsp">
+                <!--a href="${pageContext.request.contextPath}/content/page/home-purse-blog.jsp"-->
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-shopping-bag text-primary sr-icons"></i>
@@ -78,7 +78,7 @@
                         <p class="text-muted">lots of baby pictures</p>
                     </div>
                 </div>
-                </a>
+                <!--/a-->
                 <div class="col-lg-4 col-md-4 text-center"> 
                 		<!--onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-everything-else.jsp'"-->
                     <div class="service-box">
