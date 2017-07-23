@@ -121,7 +121,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-paint-brush text-primary sr-icons"></i>
                         <h3>Makeup Junkie</h3>
-                        <p class="text-muted">A hobby-turned-into-something-more, Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. I enjoy colors, blending, learning and helping out.</p>
+                        <p class="text-muted">A hobby-turned-into-something-more, Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. I enjoy colors, blending and continuous improvement.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
@@ -178,6 +178,9 @@
                             <div class="portfolio-box-caption-content">
                                 <div class="project-name">
                                     Makeup Gigs and Fashion Shows
+                                </div>
+                                <div class="project-category text-faded">
+                                    San Antonio, Texas
                                 </div>
                             </div>
                         </div>
