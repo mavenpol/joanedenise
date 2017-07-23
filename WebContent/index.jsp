@@ -86,7 +86,7 @@
     <header class="masthead">
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">IT Consultant</h1>
+                <h1 id="homeHeading">SDLC Queen</h1>
                 and<br/>
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-desktop text-primary sr-icons"></i>
-                        <h3>SDLC Queen</h3>
+                        <h3>All-around IT Consultant</h3>
                         <p class="text-muted">I can build the Software Requirements, Architect the Solution, Write the Code and Manage the Project altogether.</p>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-paint-brush text-primary sr-icons"></i>
                         <h3>Makeup Junkie</h3>
-                        <p class="text-muted">I study Makeup Artistry and offer Makeup Services as well, whenever I'm resting from the Computer Screen.</p>
+                        <p class="text-muted">A hobby-turned-into-something-more, Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. I enjoy colors, blending, learning and helping out.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
