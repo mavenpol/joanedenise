@@ -86,7 +86,7 @@
     <header class="masthead">
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">SDLC Queen</h1>
+                <h1 id="homeHeading">IT Consultant</h1>
                 and<br/>
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-desktop text-primary sr-icons"></i>
-                        <h3>All-around IT Consultant</h3>
+                        <h3>All-Around IT Consultant</h3>
                         <p class="text-muted">I can build the Software Requirements, Architect the Solution, Write the Code and Manage the Project altogether.</p>
                     </div>
                 </div>
