@@ -91,7 +91,7 @@
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
                 <p>
-                I built this simple website using Bootstrap, Spring MVC and others from the related Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                I built this simple website using Bootstrap and others from the usual Java Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
                 </p>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
