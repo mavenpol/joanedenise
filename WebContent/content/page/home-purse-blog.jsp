@@ -57,8 +57,26 @@
             </div>
         </div>
     </header>
-	blog content here
 
+	<section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+               <div class="col-lg-4 col-sm-6 portfolio-box">
+                   <img class="img-fluid" src="${pageContext.request.contextPath}/assets-page/img/travels/lake-tahoe-2.jpg" alt="Lake Tahoe">
+                   <div class="portfolio-box-caption">
+						<div class="portfolio-box-caption-content">
+							<div class="project-category text-faded">
+								Christmas Eve, 2016
+							</div>
+							<div class="project-name">
+								Heavenly Resort, Lake Tahoe
+							</div>
+						</div>
+					</div>
+            		</div>
+           </div>
+       </div>
+	</section>
 
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" align="center">
        <!--  Back to Top and Navigation to Home -->

@@ -61,9 +61,8 @@
 				
 				<p>Actually, I just thought that these may be enough. I'm not so proud of my "Travel Blog". 
 				There are more awesome blogs that you can google. I'll do better in my next trips. Stay Tuned!
-				Let me just dump them all past pictures here anyway.</p>
-				
-				<p>Each picture represents an awesome memory.</p>
+				Let me dump them all past pictures here anyway. Let's just say that each picture
+				represents an awesome memory.</p>
 			</div>
 		</div>
 	</div>

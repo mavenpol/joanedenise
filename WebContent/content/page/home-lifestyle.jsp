@@ -66,7 +66,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
                         <h3>Travels</h3>
-                        <p class="text-muted">it's a small world out there</p>
+                        <p class="text-muted">some kinda photo album</p>
                     </div>
                 </div>
                 </a>
