@@ -49,9 +49,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Lifestyle</h1>
+                        <h1>Lifestyle and Stuff</h1>
                         <hr class="small">
-                        <span class="subheading">travels, designer bags, and all the other unclassified ones</span>
+                        <span class="subheading">travels, designer bags, tech or code issues and everything else</span>
                     </div>
                 </div>
             </div>
@@ -61,8 +61,17 @@
     <!-- Main Content -->
  	<div class="container">
             <div class="row">
+            		<a href="${pageContext.request.contextPath}/content/page/home-tech.jsp">
+                <div class="col-lg-3 col-md-3 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-bug text-primary sr-icons"></i>
+                        <h3>Tech Blog</h3>
+                        <p class="text-muted">whining about java</p>
+                    </div>
+                </div>
+                </a>
             		<a href="${pageContext.request.contextPath}/content/page/home-travels.jsp">
-                <div class="col-lg-4 col-md-4 text-center">
+                <div class="col-lg-3 col-md-3 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
                         <h3>Travels</h3>
@@ -71,7 +80,7 @@
                 </div>
                 </a>
                 <!--a href="${pageContext.request.contextPath}/content/page/home-purse-blog.jsp"-->
-                <div class="col-lg-4 col-md-4 text-center">
+                <div class="col-lg-3 col-md-3 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-shopping-bag text-primary sr-icons"></i>
                         <h3>My Purse Blog</h3>
@@ -79,7 +88,7 @@
                     </div>
                 </div>
                 <!--/a-->
-                <div class="col-lg-4 col-md-4 text-center"> 
+                <div class="col-lg-3 col-md-3 text-center"> 
                 		<!--onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-everything-else.jsp'"-->
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>

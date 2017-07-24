@@ -51,7 +51,7 @@
                     <div class="site-heading">
                         <h1>Tech Blog</h1>
                         <hr class="small">
-                        <span class="subheading">here is where I whine about my code and other things around it.</span>
+                        <span class="subheading">some boring stuff about my codes and all the other things around it.</span>
                     </div>
                 </div>
             </div>

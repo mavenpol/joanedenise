@@ -59,11 +59,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
+                    <!--li class="nav-item">
+                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-tech.jsp">Tech</a>
+                    </li-->
                     <li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-tech.jsp">TechBlog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Lifestyle</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Blog</a>
                     </li>
                     <!-- Forget about the dropdown for now. Let's keep it simple.
                     <li class="nav-item dropdown">
