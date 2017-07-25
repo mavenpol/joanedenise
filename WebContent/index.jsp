@@ -120,7 +120,7 @@
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-paint-brush text-primary sr-icons"></i>
-                        <h3>Makeup Junkie</h3>
+                        <h3>Makeup Pro</h3>
                         <p class="text-muted">A hobby-turned-into-something-more, Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. I enjoy colors, blending and continuous improvement.</p>
                     </div>
                 </div>

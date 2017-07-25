@@ -68,7 +68,7 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 	    <p>
                 	    I will try my best to make this post a bit more "professional" and avoid 
-                	    pouring out wild emotional content and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
+                	    pouring out wild emotional feelings and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
                 	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
                 	    </p>
                 	  
@@ -121,8 +121,6 @@
                     Believe in yourself, learn from your mistakes and move on. (on haters and unsatisfied clients)</blockquote>
                     <blockquote>Find your purpose as a Makeup Artist. And the purpose I suggest for you is to 
                     just get paid. There is value in what you do.</blockquote>
-                    <p>Since this is not really the main industry I am in and that this is just a 
-                    hobby, I often de-value what I do and offer free makeup services a lot. Roque asked me to stop. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-day1-demo.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
