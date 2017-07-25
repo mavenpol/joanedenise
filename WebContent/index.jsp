@@ -91,7 +91,9 @@
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
                 <p>
-                I built this simple website using Bootstrap and others from the usual Java Technology Stack. In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                I built this platform using Bootstrap and others from the usual Java Technology Stack. 
+                In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                Welcome to my Digital Hub!
                 </p>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
             </div>
@@ -121,14 +123,17 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-paint-brush text-primary sr-icons"></i>
                         <h3>Makeup Pro</h3>
-                        <p class="text-muted">A hobby-turned-into-something-more, Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. I enjoy colors, blending and continuous improvement.</p>
+                        <p class="text-muted">A hobby-turned-into-something-more, 
+                        Makeup Artistry is something I pursued whenever I am resting from my Computer Screen/s. 
+                        I love a natural look, some colors, blending and continuous improvement.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-plane text-primary sr-icons"></i>
                         <h3>Travel, Write, Live</h3>
-                        <p class="text-muted">I travel when the opportunity is there. And I like to write about a lot of things.</p>
+                        <p class="text-muted">I travel when the opportunity is there. 
+                        And I like to write about a lot of things.</p>
                     </div>
                 </div>
             </div>

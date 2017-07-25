@@ -66,23 +66,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                	    <p>
-                	    I will try my best to make this post a bit more "professional" and avoid 
-                	    pouring out wild emotional feelings and all. Makeup Forever Academy was part of my Makeup Artist "bucket-list",
-                	    so it's gonna be a bit hard to recall all these events but not feeling so excited at the same time. 
-                	    </p>
-                	  
+                	    
                     <h2 class="section-heading">Makeup Forever Academy</h2>
-                    <p>I stood in front of the Makeup Forever Academy Building door, a little unfamiliar but giddy. 
-                    It's really not that hard to find, it's just by Broadway and there's a Banana Republic Store beside its door.
+                    <p>So there I was, standing in front of the Makeup Forever Academy Building door, 
+                    a little unfamiliar but giddy. I will try my best to avoid pouring out wild emotional feelings and all. 
+                    Makeup Forever Academy was part of my Makeup Artist "bucket-list",
+                	    so it's going to be a bit hard to recall all these events but not feel so excited at the same time. 
                     </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/hallway.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>The pieces of artwork and photographs laid across the hallway made the short walk to the Elevator 
-                    a little enchanting, as if
-                    unicorns and stars and sunshine came in the room so alive. Okey I know I know, I will stop the emotions.
-                    Makeup Forever Academy is at the 3rd Floor of the Building.</p>
+                    a little enchanting.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/lobby.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -90,7 +85,7 @@
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/lobby-other-side.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>I'm feeling so New York here. It's industrial but elegant.</p>
+                    <p>I'm feeling the New York here. It's industrial but elegant.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/classroom.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -109,23 +104,22 @@
                     And they are free to use (for learning of course :D).</p>
                     
                     <h2 class="section-heading">Roque Cozzette</h2>
-                    <p>On our first day we were introduced to Roque Cozzette, 
+                    <p>We were introduced to Roque Cozzette, 
                     world-renowned Makeup Artist, and owner of Cozzette Beauty. 
                     I never imagined that I'd be this close to a Celebrity Makeup Artist and/or a Celebrity. 
                     Roque (pronounced as "Rowkey") is not just a Makeup Artist, he is everything else!
                     He's a photographer, painter, web designer, etc. The most surprising thing I experienced in his class 
-                    is his motivational and inspirational messages. What I learned from this class is more than just
+                    were his motivational and inspirational messages. What I learned from this class are more than just
                     Airbrush Makeup. To top it all, he's also funny and so light-hearted.
-                    Some things that sticked.</p>
+                    And here are some motivational things that sticked.</p>
                     <blockquote>Surround yourself with "good vibes". Just block negativity out of your way. 
                     Believe in yourself, learn from your mistakes and move on. (on haters and unsatisfied clients)</blockquote>
                     <blockquote>Find your purpose as a Makeup Artist. And the purpose I suggest for you is to 
                     just get paid. There is value in what you do.</blockquote>
-                    <img class="img-responsive" 
+                    	<img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-day1-demo.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>Every day is demo day. Here, he demo'ed the basics of airbrush. 
-                    It was my first time to see an actual air-brush, can you imagine how I felt to see it in action.</p>
+                    	<p>Every day is demo day. Here, he demo'ed the basics of airbrush.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day1-beauty.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -142,19 +136,20 @@
                     Airbrush as well. </p>
                     
                     <h2 class="section-heading">The Tools</h2>
+                    <p>I was under the impression that airbrush compressors are big and all. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/kett-jett.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <p>I was introduced to Kett Cosmetics, Cozzette Brushes and the Kett Jett.
-                    I was under the impression that airbrush compressors are big and all. 
                     The Ket Jett is small and decent size. It's something I could carry on-the-go.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/cozzette-and-kett.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>Oh my those Cozzette Brushes, I am in-love with them! There are plenty of things I realized in this workshop.
+                    <p>I am in-love with those Cozzette Brushes!</p> 
+                    <p>There are plenty of things I realized in this workshop.
                     And one of them is about the tools I use and how I fall right away for those commercial ones.
-                    For example, I bought some MAC brushes because I heard good reviews, but when I got mine,
-                    it's not as brilliant as what I was expecting. I should be better at not falling prey to 
+                    For example, I bought some MAC brushes because they are popular. But when I got mine,
+                    some are not as brilliant as what I was expecting. I should be better at not falling prey to 
                     Sephora / MAC sales tactics. I should probably lean on those tools that are made by artists, not those tools
                     that are endorsed by celebrities or something. The Cozzette brushes are like babies to Roque. 
                     I love how they're made, and the bristles are not a disappointment. And I won't forget about the 
@@ -170,9 +165,8 @@
                     
                     <h2 class="section-heading">Face Chart</h2>
                     <p>Something I learned from my Pure Glam training is about utilizing a Face Chart for "planning purposes" 
-                    or plainly to plan your looks (for example, for a photo shoot or a fashion show).
-                    I had fun actually on those exercises, you remember those times when the coloring book became a hit for adults?
-                    Face Charts became my coloring book and the makeup kits became my crayolas.</p>
+                    or plainly to plan your looks (for example, for a photo shoot or a fashion show). I saw how 
+                    Face Charting was taken to the next level.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-wip.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -185,7 +179,7 @@
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-details.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>You can always go to the brush for those details.</p>
+                    <p>You can always go back to the brush for those details.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-final.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -196,15 +190,16 @@
                     	<span class="caption text-muted">And here is the best way I could possibly express my appreciation for Art.</span>
                     		
                     <h2 class="section-heading">Beauty Makeup</h2>
+                    <p>After this course I realized that I wanted to concentrate on Beauty Makeup.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-day2-closer.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>After this course I realized that I wanted to concentrate on Beauty Makeup.</p>
+                    	<p>The whole time Roque is demo-ing and instructing, I am not sure if I am 
+                    really absorbing everything.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/roque-on-eye.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
-                    <p>The whole time Roque is demo-ing and instructing, I am not sure if I am 
-                    really absorbing everything. I was sitting there watching him work and just awe-ing in amazement, 
+                    <p>I was sitting there watching him work and just awe-ing in amazement, 
                     especially that time when he applied eye shadow via Airbrush!</p>
                     	<p>The final product is obviously a perfection.</p>
                     <img class="img-responsive" 
@@ -214,19 +209,19 @@
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day2-beauty-intense.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     	<p>Our model is werking it! The moment the brushes are down and our cameras start to click, she just 
-                    	poses from all directions.</p>
+                    	posed from all directions.</p>
                     	<img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day2-working-it.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">Work work work work!</span>
                     
                     <h2 class="section-heading">Tattoo Coverage</h2>
+                    <p>The last day, we were taught how to cover a tattoo or some body art that for example, 
+                    a Fashion show don't want to show. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day3-tat-demo-before.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
                     <span class="caption text-muted">Before</span>
-                    <p>The last day, we were taught how to cover a tattoo or some body art that for example, 
-                    a Fashion show don't want to show. </p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/day3-tat-demo-after.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">
@@ -253,7 +248,7 @@
 					Roque told me - </p>
 					<blockquote>
 					Don't you call yourself a Beginner nor second-doubt yourself anymore. 
-					From now on, you are a Makeup Artist. Own it.
+					From now on, you are a Makeup Artist. You should own it!
 					</blockquote>
                 </div>
             </div>
