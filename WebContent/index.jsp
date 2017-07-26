@@ -91,7 +91,7 @@
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
                 <p>
-                Software Development is my world. In my other life, 
+                Software Development is my world and my passion. In my other life, 
                 I'm your friendly neighborhood Airbrush and Traditional Makeup Artist. 
                 <br/>
                 Welcome to my Digital Hub!
