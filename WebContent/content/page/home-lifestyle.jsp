@@ -84,7 +84,8 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-shopping-bag text-primary sr-icons"></i>
                         <h3>My Purse Blog</h3>
-                        <p class="text-muted">lots of baby pictures</p>
+                        <!--p class="text-muted">lots of baby pictures</p-->
+                        <p class="text-muted">Coming Soon</p>
                     </div>
                 </div>
                 <!--/a-->
@@ -93,7 +94,7 @@
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
                         <h3>Everything Else</h3>
-                        <p class="text-muted">this part is a work-in-progress</p>
+                        <p class="text-muted">Coming Soon</p>
                     </div>
                 </div>
             </div>
