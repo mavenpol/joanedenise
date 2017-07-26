@@ -82,10 +82,9 @@
                 	    
                 	    
                 	    <h2 class="section-heading">Pure Glam Makeup Academy</h2>
-                	    <p>www.pureglammakeupacademy.com</p>
                 	    
-                	    <p>Pure Glam Makeup Academy is the only school I know in San Antonio that
-                	    provides Night classes for professionals like me.                	    
+                	    <p>Pure Glam Makeup Academy is the only school I know at the time 
+                	    in San Antonio that provides Night classes for professionals like me.                	    
                 	    <p>This workshop has jumpstarted my "career" as a Makeup Artist. The course outline
                 	    is intensive, covers all the basics and advanced techniques of Makeup Artistry
                 	    that you'll use for your potential clients. I love that the first thing we learned is
@@ -174,8 +173,7 @@
                     
                 	    <h2 class="section-heading">Graduation Night</h2>
                 	    
-                	    <p>Our last night is a real photo shoot! These pictures have my watermark on them but they
-                	    are taken by Kevin from <a href="https://www.flickr.com/photos/platinumpixels/">Banana Glass Photography</a>. It is a first for me to be behind a real photoshoot, 
+                	    <p>Our last night is a real photo shoot! It is a first for me to be behind a real photoshoot, 
                 	    and meeting new connections from the other side of the professional world is another perk I get
                 	    to experience. </p>
                 	    <img class="img-responsive" 
@@ -183,13 +181,9 @@
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">Here's my Professional Setup</span>
                 	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-work-2-sorry.jpg" 
+                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-work-eyes.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
                 	    	<span class="caption text-muted">I'm so sorry for my unprofessional Hand.</span>
-                	    <img class="img-responsive" 
-                   		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/bg-work-brows.jpg" 
-                    		alt="Joane Denise's Pure Glam Makeup Academy Adventures">
-                	    	<span class="caption text-muted">Taking my time on the brows. Again, I'm so sorry for my unprofessional Hand.</span>
                 	    <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/pure-glam/grad-ariadna.jpg" 
                     		alt="Joane Denise's Pure Glam Makeup Academy Adventures">

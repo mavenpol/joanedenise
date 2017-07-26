@@ -69,7 +69,8 @@
                 	    
                     <h2 class="section-heading">Makeup Forever Academy</h2>
                     <p>So there I was, standing in front of the Makeup Forever Academy Building door, 
-                    a little unfamiliar but giddy. I will try my best to avoid pouring out wild emotional feelings and all. 
+                    a little unfamiliar but giddy. I will try my best to avoid pouring out wild emotional feelings and all
+                     on this post. 
                     Makeup Forever Academy was part of my Makeup Artist "bucket-list",
                 	    so it's going to be a bit hard to recall all these events but not feel so excited at the same time. 
                     </p>
@@ -165,8 +166,8 @@
                     
                     <h2 class="section-heading">Face Chart</h2>
                     <p>Something I learned from my Pure Glam training is about utilizing a Face Chart for "planning purposes" 
-                    or plainly to plan your looks (for example, for a photo shoot or a fashion show). I saw how 
-                    Face Charting was taken to the next level.</p>
+                    or plainly to plan your looks (for example, for a photo shoot or a fashion show). During the Airbrush Workshop, 
+                    I saw how Face Charting was taken to the next level.</p>
                     <img class="img-responsive" 
                    		src="${pageContext.request.contextPath}/assets-page/img/makeup-forever/face-chart-wip.jpg" 
                     		alt="Joane Denise's Makeup Forever Academy Adventures">

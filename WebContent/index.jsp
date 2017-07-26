@@ -91,8 +91,9 @@
                 <h1 id="homeHeading">Makeup Artist</h1>
                 <hr>
                 <p>
-                I built this platform using Bootstrap and others from the usual Java Technology Stack. 
-                In my other life, I'm your friendly neighborhood Airbrush and Traditional Makeup Artist.
+                Software Development is my world. In my other life, 
+                I'm your friendly neighborhood Airbrush and Traditional Makeup Artist. 
+                <br/>
                 Welcome to my Digital Hub!
                 </p>
                 <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
@@ -145,7 +146,7 @@
         		<!-- JD: Add onClick to the div as hack to bootstrap popup-gallery -->
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6"  onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/makeup-forever.jsp'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/airbrush.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -161,7 +162,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/pure-glam.jsp'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/pure-glam.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -177,7 +178,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/gigs.jsp'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/gigs.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -192,7 +193,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='https://www.linkedin.com/in/joanesaulon'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/it-profile.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -204,7 +205,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-tech.jsp'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/tech-blog.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -216,7 +217,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6" onClick="location.reload();location.href='${pageContext.request.contextPath}/content/page/home-lifestyle.jsp'">
-                    <a class="portfolio-box" href="${pageContext.request.contextPath}/assets-home/img/portfolio/redirecting.jpg">
+                    <a class="portfolio-box" href="#">
                         <img class="img-fluid" src="${pageContext.request.contextPath}/assets-home/img/portfolio/thumbnails/travels.jpg" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
