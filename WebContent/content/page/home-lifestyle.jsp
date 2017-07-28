@@ -64,7 +64,7 @@
             		<a href="${pageContext.request.contextPath}/content/page/home-tech.jsp">
                 <div class="col-lg-3 col-md-3 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-bug text-primary sr-icons"></i>
+                        <i class="fa fa-4x fa-code-fork text-primary sr-icons"></i>
                         <h3>Tech Blog</h3>
                         <p class="text-muted">whining about java</p>
                     </div>
