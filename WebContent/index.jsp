@@ -9,7 +9,9 @@
     <meta name="author" content="">
 
     <title>Joane Denise</title>
-
+    
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico"> 
+    
     <!-- Bootstrap core CSS -->
     <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -59,11 +61,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
-                    <!--li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-tech.jsp">Tech</a>
-                    </li-->
                     <li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Blog</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/beauty.jsp">Beauty</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Lifestyle</a>
                     </li>
                     <!-- Forget about the dropdown for now. Let's keep it simple.
                     <li class="nav-item dropdown">
