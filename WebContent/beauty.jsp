@@ -72,7 +72,8 @@
                         <img class="img-responsive" src="${pageContext.request.contextPath}/assets-blog/img/beauty/2017-07-28-starting-up/bobby-brown-makeup.jpg" alt="Joane Denise Makeup Book">
                     </a>
                     <p>I learned a great deal about blogging throughout the years. 
-                    My creative mind has always been trying to be everywhere, and it has since became difficult to tame...
+                    Just to share a brief background about me: My creative mind has always been trying to be everywhere,
+						and it has since became difficult to tame...
 						<a href="${pageContext.request.contextPath}/content/blog/beauty/2017-07-28-starting-up.jsp">
 							Read More.
 						</a>

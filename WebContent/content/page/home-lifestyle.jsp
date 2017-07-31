@@ -49,9 +49,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Lifestyle and Stuff</h1>
+                        <h1>Everything Else</h1>
                         <hr class="small">
-                        <span class="subheading">travels, designer bags, tech or code issues and everything else</span>
+                        <span class="subheading">blog about travels, designer bags and everything else that's not makeup nor beauty</span>
                     </div>
                 </div>
             </div>

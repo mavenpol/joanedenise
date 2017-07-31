@@ -73,14 +73,19 @@
 					<p>I learned a great deal about blogging throughout the years.
 					</p>
 
-					<p>My creative mind has always been trying to be everywhere,
-						and it has since became difficult to tame. There are just too much
-						ideas pouring in, but execution has been lacking, or poor.</p>
+					<p>Just to share a brief background about me: My creative mind has always been trying to be everywhere,
+						and it has since became difficult to tame. There were times when I just 
+						dump everything that I'm thinking about online, without filtering nor 
+						editing. There are just too much ideas pouring in, 
+						but execution has been lacking, or poor.</p>
 
-					<p>What I was trying to say is that I really can't blog or talk
-						about "life" (or "lifestyle") in general, because it is a very
-						broad subject. I also have to tone down on all my other hobbies
-						and focus on one.</p>
+					<p>And then somehow when I outgrew my "bare-it-all" stage, 
+						I learned to manage and tame my execution a bit. Step 1 is really about 
+						focusing on one thing. I had to stray away from blogging about 
+						"life" in general because it is just a very broad subject. Sure, 
+						there are moments but I just can't concentrate on a big topic.  
+						I also have to tone down on all my other hobbies
+						and again, focus on one.</p>
 
 					<img class="img-responsive"
 						src="${pageContext.request.contextPath}/assets-blog/img/beauty/2017-07-28-starting-up/makeup-and-beauty.jpg"
