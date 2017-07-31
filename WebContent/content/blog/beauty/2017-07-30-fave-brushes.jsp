@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Starting Up</title>
+    <title>Favorite Brushes</title>
     <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico"> 
 
     <!-- Bootstrap Core CSS -->
@@ -55,9 +55,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Starting Up</h1>
-                        <h2 class="subheading">Thoughts about Beauty Blogging</h2>
-                        <span class="meta">by Joane Denise<br/> July 28, 2017</span>
+                        <h1>Fave List: My Top Personal Brushes</h1>
+                        <h2 class="subheading">Brushes that I learned to navigate through</h2>
+                        <span class="meta">by Joane Denise<br/> July 31, 2017</span>
                     </div>
                 </div>
             </div>
@@ -70,48 +70,35 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-					<p>I learned a great deal about blogging throughout the years.
+					<p>
+						It took me some time to learn how to use the makeup brushes as 
+						effectively as possible. Sometimes I would buy brushes because a YouTube artist 
+						or a blogger mentioned it. But then somehow it turned into a disappointment when I got it, 
+						either because 
+						(1) The brush isn't really meant for what I was 
+						supposed to do or (2) I don't know what I'm doing.
 					</p>
-
-					<p>My creative mind has always been trying to be everywhere,
-						and it has since became difficult to tame. There are just too much
-						ideas pouring in, but execution has been lacking, or poor.</p>
-
-					<p>What I was trying to say is that I really can't blog or talk
-						about "life" (or "lifestyle") in general, because it is a very
-						broad subject. I also have to tone down on all my other hobbies
-						and focus on one.</p>
-
-					<img class="img-responsive"
-						src="${pageContext.request.contextPath}/assets-blog/img/beauty/2017-07-28-starting-up/makeup-and-beauty.jpg"
-						alt="Joane Denise Makeup & Beauty Blog">
-
-
-					<p>I think it is a pretty obvious choice given the heart and
-						investment I already put in it.</p>
-					<p>Sometimes it's a bit discouraging to start one though
-						because, why would I when they are already out there everywhere?
-						Like, google "Beauty Blog" and you'll see a lot of resources and
-						people from all over the world - from blogs to vlogs to shows,
-						etc. There are plenty.</p>
-					<p>I have to ask myself what is the purpose of this thing that
-						I am starting anyway?</p>
+					<p>
+						During my MUFE training with Roque, he mentioned something about the Makeup Brushes 
+						that really sticked on me - Use the brushes according to where it would fit in the face. 
+						Something like that. It made sense! Don't rely too much on the labels. 
+						Use the brush on where it is applicable on the face.
+					</p>
+					<p>
+						So here, I narrowed down the personal brushes that I learned to use to max its potential.
+						Unless otherwise stated, surprisingly, these brushes have been with me for years.
+					</p>
 					
+					<p>A little Disclaimer: It may not work for you at first, but with a bit of practice it might will.</p>
+					
+					
+
 					<img class="img-responsive"
 						src="${pageContext.request.contextPath}/assets-blog/img/beauty/2017-07-28-starting-up/bobby-brown-makeup.jpg"
 						alt="Joane Denise Makeup Book">
                     <span class="caption text-muted">My very first Makeup Book, my Starter Kit</span>		
 						
-					<p>I initially thought that I would instantly relate to the
-						Corporate Workforce who are trying to "pursue vanity". But, I
-						think the subject is a little difficult to maintain, and I felt
-						some pressure there. Then I dug in a little deeper and found that
-						phase in my adult life when I was afraid to apply a lipstick, or
-						even touch a makeup brush. Sounds dark eh? :D</p>
-					<p>So, I want to make a connection and share my story. Maybe
-						help people along the way, who once, like me, struggled to achieve
-						a little vanity in life. I guess I'll start from there.</p>
-					<p>Then let's see where the wind would take me.</p>
+					
 				</div>
             </div>
             

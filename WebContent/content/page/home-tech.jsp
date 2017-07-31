@@ -62,8 +62,12 @@
     <div class="container">
     		<div class="row">
     			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <p class="post-meta">I am really surprised I'd start this "Tech Blog" series. I have been trying not to appear geeky all this time, 
-    				but I think I am one. Thankfully, majority of the society today think that geeks are now the 
+                <p class="post-meta">I am really surprised I'd start this "Tech Blog" series. 
+                I have been trying to appear cool all this time, but I am a nerd. 
+                I love to code and think about logic and stuff. I had always thought that Math was 
+                my waterloo, but as a Computer Science major, I secretly enjoyed my Computer Science subjects, which 
+                were all Math anyway. 
+                Thankfully, majority of the society today think that geeks/nerds are now the 
     				"new cool", so I think I'm on the right track here.</p>
     			</div>
     		</div>
