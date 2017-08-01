@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>Pure Glam Makeup Academy</title>
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico">
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

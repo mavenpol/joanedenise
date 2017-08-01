@@ -67,8 +67,8 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
                     <a href="${pageContext.request.contextPath}/content/blog/beauty/2017-07-30-fave-brushes.jsp">
-                        <h2 class="post-title">My Fave List: Top 9 Personal Brushes</h2>
-                        <h3 class="post-subtitle">Brushes that I learned to navigate through</h3>
+                        <h2 class="post-title">Survey: My Top 9 Personal Brushes</h2>
+                        <h3 class="post-subtitle">Brushes that I love and learned to navigate through</h3>
                         <img class="img-responsive" src="${pageContext.request.contextPath}/assets-blog/img/beauty/2017-07-30-fave-brushes/makeup-brushes.jpg" alt="Makeup Brushes">
                     </a>
                     <p>It took me some time to learn how to use the makeup brushes as 

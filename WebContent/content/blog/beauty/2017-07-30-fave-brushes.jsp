@@ -55,8 +55,8 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>My Fave List: Top 9 Personal Brushes</h1>
-                        <h2 class="subheading">Brushes that I learned to navigate through</h2>
+                        <h1>Survey: My Top 9 Personal Brushes</h1>
+                        <h2 class="subheading">Brushes that I love and learned to navigate through</h2>
                         <span class="meta">by Joane Denise<br/> July 31, 2017</span>
                     </div>
                 </div>

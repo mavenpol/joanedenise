@@ -9,6 +9,7 @@
     <meta name="author" content="">
     
     <title>Joane Denise Travels</title>
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico">
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-home/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

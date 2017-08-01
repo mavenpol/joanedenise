@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Joane Denise v1</title>
+    <title>Joane Denise</title>
     
     <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico"> 
     
@@ -49,7 +49,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="container">
-            <a class="navbar-brand" href="#page-top">Joane Denise v1</a>
+            <a class="navbar-brand" href="#page-top">Joane Denise</a>
             <div class="collapse navbar-collapse" id="navbarExample">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
@@ -62,7 +62,7 @@
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="${pageContext.request.contextPath}/beauty.jsp">Blog</a>
+                        <a class="nav-link" href="${pageContext.request.contextPath}/beauty.jsp">Beauty</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="${pageContext.request.contextPath}/content/page/home-lifestyle.jsp">Etc</a>

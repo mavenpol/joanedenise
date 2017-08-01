@@ -9,6 +9,7 @@
     <meta name="author" content="">
     
     <title>Joane Denise Purse Blog</title>
+    <link rel="shortcut icon" href="${pageContext.request.contextPath}/assets-home/img/logo.ico">
 
     <!-- Bootstrap Core CSS -->
     <link href="${pageContext.request.contextPath}/assets-blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
